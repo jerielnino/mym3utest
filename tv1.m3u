@@ -5,3 +5,9 @@ https://prod-sports-eng-gm.jiocinema.com/hls/live/2100297/hd_akamai_iosmob_avc_e
 https://prod-ent-live-gm.jiocinema.com/hls/live/2100304/uhd_akamai_ctv_hevc_eng_indvsaus_odi03/master.m3u8
 #EXTINF:-1 tvg-name="Liv Vs Leic" tvg-logo="https://i.imgur.com/6C9JEYt.png" tvg-id="LivLeic" group-title="Live Sports",Liv Vs Leic
 https://dai.google.com/linear/hls/event/mR0dgSpASV-ChDQumLHNXw/master.m3u8
+#EXTINF:-1 tvg-name="Ars vs Bre" tvg-logo="https://i.imgur.com/6C9JEYt.png" tvg-id="ArsBre" group-title="Live Sports",Ars Vs Bre
+https://dai.google.com/linear/hls/event/RqcyN43qQLCXcpkkF6VgZQ/master.m3u8
+#EXTINF:-1 tvg-name="Che vs BHA" tvg-logo="https://i.imgur.com/6C9JEYt.png" tvg-id="CheBha" group-title="Live Sports",Che vs Bha
+https://dai.google.com/linear/hls/event/ULOqNXy0SKC5bLkZmtf75g/master.m3u8
+#EXTINF:-1 tvg-name="Avl vs Eve" tvg-logo="https://i.imgur.com/6C9JEYt.png" tvg-id="AvlEve" group-title="Live Sports",Aston villa vs Everton
+https://dai.google.com/linear/hls/event/vYi6oCOcRzGgE2l30dJpKw/master.m3u8
