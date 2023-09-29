@@ -9,3 +9,27 @@ https://dai.google.com/linear/hls/event/ULOqNXy0SKC5bLkZmtf75g/master.m3u8
 https://dai.google.com/linear/hls/event/vYi6oCOcRzGgE2l30dJpKw/master.m3u8
 #EXTINF:-1 tvg-name="New vs City" tvg-logo="https://i.imgur.com/6C9JEYt.png" tvg-id="NewCity" group-title="Live Sports",Newcastle vs City
 https://dai.google.com/linear/hls/event/FuDXtj8-QhWZWqaN6FBw0A/master.m3u8
+
+#EXTINF:-1 group-title="Live Channels", T-sports HD
+https://boldwhirlwindscientists.mhapurbo1.repl.co/MH-SPORTS/T_Sports_Hd/hls/index.m3u8|Referer=https://boomtv.co.in/.m3u8
+
+#EXTINF:-1 group-title="Live Channels", T-sports
+https://chiefcarefulstruct.mhapurbo1.repl.co/MH-SPORTS/T_Sports_Bd/hls/index.m3u8|Referer=https://boomtv.co.in/.m3u8 
+
+#EXTINF:-1 group-title="Live Channels", B-TV
+https://responsibleupsetports.mhapurbo1.repl.co/MH-SPORTS/B_TV/hls/index.m3u8|Referer=https://boomtv.co.in/.m3u8 
+
+#EXTINF:-1 group-title="Live Channels", PTV Sports
+https://offshoreloyaltasks.mhapurbo1.repl.co/MH-SPORTS/Ptv_Sports/hls/index.m3u8|Referer=https://boomtv.co.in/.m3u8 
+
+#EXTINF:-1 group-title="Live Channels", Star sports select 1 HD
+https://bronzecompletehypertalk.mhapurbo1.repl.co/MH-SPORTS/Star_Select_1hd/hls/index.m3u8|Referer=https://boomtv.co.in/.m3u8 
+
+#EXTINF:-1 group-title="Live Channels", Star sports select 2 HD
+https://profuseavariciousstructures.mhapurbo1.repl.co/MH-SPORTS/Star_Select_2hd/hls/index.m3u8|Referer=https://boomtv.co.in/.m3u8 
+
+#EXTINF:-1 group-title="Live Channels", Willow HD
+https://upsetnavytechnology.mhapurbo1.repl.co/MH-SPORTS/Willow_Hd/hls/index.m3u8|Referer=https://boomtv.co.in/.m3u8 
+
+#EXTINF:-1 group-title="Live Channels", Star sports 2 HD
+http://temp.mhapurbo1.repl.co/MH-SPORTS/4200/index.ts
