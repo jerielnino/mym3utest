@@ -1,23 +1,44 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Liv Vs Leic" tvg-logo="https://i.imgur.com/6C9JEYt.png" tvg-id="LivLeic" group-title="Live Sports",Liv Vs Leic
-https://dai.google.com/linear/hls/event/mR0dgSpASV-ChDQumLHNXw/master.m3u8
-#EXTINF:-1 tvg-name="Ars vs Bre" tvg-logo="https://i.imgur.com/6C9JEYt.png" tvg-id="ArsBre" group-title="Live Sports",Ars Vs Bre
-https://dai.google.com/linear/hls/event/RqcyN43qQLCXcpkkF6VgZQ/master.m3u8
-#EXTINF:-1 tvg-name="Che vs BHA" tvg-logo="https://i.imgur.com/6C9JEYt.png" tvg-id="CheBha" group-title="Live Sports",Che vs Bha
-https://dai.google.com/linear/hls/event/ULOqNXy0SKC5bLkZmtf75g/master.m3u8
-#EXTINF:-1 tvg-name="Avl vs Eve" tvg-logo="https://i.imgur.com/6C9JEYt.png" tvg-id="AvlEve" group-title="Live Sports",Aston villa vs Everton
-https://dai.google.com/linear/hls/event/vYi6oCOcRzGgE2l30dJpKw/master.m3u8
-#EXTINF:-1 tvg-name="New vs City" tvg-logo="https://i.imgur.com/6C9JEYt.png" tvg-id="NewCity" group-title="Live Sports",Newcastle vs City
-https://dai.google.com/linear/hls/event/FuDXtj8-QhWZWqaN6FBw0A/master.m3u8
-#EXTINF:-1 group-title="Live Sports",Tot Vs Luton
-https://xwssgs.1stream.one/scripts/MTQyNDU=/caxi.m3u8|Referer=https://1stream.soccer/.m3u8
-#EXTINF:-1 group-title="Live Sports",Manunited
-https://livesports.imamhossainmihir.repl.co/epl/index2.m3u8|Referer=https://wwwstream.pro/.m3u8
-#EXTINF:-1 group-title="Live Sports",Chelsea
-https://livesports.imamhossainmihir.repl.co/epl/index1.m3u8|Referer=https://embx205977.apl274.me/.m3u8
-#EXTINF:-1 group-title="Live Sports",Realmadrid
-https://livesports.imamhossainmihir.repl.co/laliga/index.m3u8|Referer=https://embx210777.apl274.me/.m3u8
 
+#EXTM3U
+#EXTINF:-1 tvg-id="",DAZN F1
+https://sc2022.stream-link.org/tv2306.php?id=s07
+#EXTINF:-1 tvg-id="",DAZN 西甲
+https://sc2022.stream-link.org/tv2306.php?id=s08
+#EXTINF:-1 tvg-id="",MLB
+https://sc2022.stream-link.org/tv2306.php?id=s09
+#EXTINF:-1 tvg-id="",TNT NBA
+https://sc2022.stream-link.org/tv2306.php?id=s10
+#EXTINF:-1 tvg-id="",Unbeaten
+https://sc2022.stream-link.org/tv2306.php?id=s11
+#EXTINF:-1 tvg-id="",FIFA+
+https://sc2022.stream-link.org/tv2306.php?id=s12
+#EXTINF:-1 tvg-id="",Tennis Channel
+https://sc2022.stream-link.org/tv2306.php?id=s13
+#EXTINF:-1 tvg-id="",beIN SPORTS XTRA
+https://sc2022.stream-link.org/tv2306.php?id=s14
+#EXTINF:-1 tvg-id="",beIN SPORTS
+https://sc2022.stream-link.org/tv2306.php?id=s15
+#EXTINF:-1 tvg-id="",beIN SPORTS 2
+https://sc2022.stream-link.org/tv2306.php?id=s16
+#EXTINF:-1 tvg-id="",beIN SPORTS 3
+https://sc2022.stream-link.org/tv2306.php?id=s17
+#EXTINF:-1 tvg-id="",beIN SPORTS 4
+https://sc2022.stream-link.org/tv2306.php?id=s18
+#EXTINF:-1 tvg-id="",Astro SUPERSPORT
+https://sc2022.stream-link.org/tv2306.php?id=s19
+#EXTINF:-1 tvg-id="",Astro SUPERSPORT 2
+https://sc2022.stream-link.org/tv2306.php?id=s20
+#EXTINF:-1 tvg-id="",Astro SUPERSPORT 3
+https://sc2022.stream-link.org/tv2306.php?id=s21
+#EXTINF:-1 tvg-id="",Astro SUPERSPORT 4
+https://sc2022.stream-link.org/tv2306.php?id=s22
+#EXTINF:-1 tvg-id="",Astro CH795
+https://sc2022.stream-link.org/tv2306.php?id=s23
+#EXTINF:-1 tvg-id="",Astro CH796
+https://sc2022.stream-link.org/tv2306.php?id=s24
+#EXTINF:-1 tvg-id="",Astro CH797
+https://sc2022.stream-link.org/tv2306.php?id=s25
 #EXTINF:-1 group-title="Live Channels", T-sports HD
 https://boldwhirlwindscientists.mhapurbo1.repl.co/MH-SPORTS/T_Sports_Hd/hls/index.m3u8|Referer=https://boomtv.co.in/.m3u8
 
