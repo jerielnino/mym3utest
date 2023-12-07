@@ -66,3 +66,7 @@ http://temp.mhapurbo1.repl.co/MH-SPORTS/4200/index.ts
 
 #EXTINF:-1 group-title="Live Channels", Zim vs Ire
 https://dai.fancode.com/linear/hls/pb/event/KFZnbdCoRQabOZnRa3RXAg/stream/71bed97c-bf42-4c65-86c0-546fbe85eeeb:SIN/master.m3u8?hdnea=st=1701974123~exp=1701974423~acl=*~id=aa02d09e-3c63-4b31-b378-90610ceceef7~hmac=37cfa94b79c1951e1294a7e2b0bf36dbb7f06818be7d30325bb35ce99a02b601
+
+
+#EXTINF:-1 group-title="Live Channels", Zim vs Ire2
+https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/hJvmSdXDbijM2pG2m44WdUxDZtqONBlOiqPPTiCBllv3u_OI2MJwti1jSX3nm-sCf94tEmO71vC59zJ89qfJQg/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/tw_master_dynamic_highlatency.m3u8?type=live
