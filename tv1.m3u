@@ -66,3 +66,13 @@ http://temp.mhapurbo1.repl.co/MH-SPORTS/4200/index.ts
 
 #EXTINF:-1 group-title="Live Channels", BigBash1
 https://dai.google.com/linear/hls/event/ynpJWjySRKilwdcSGkVIng/master.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Live Channels", Zim vs Ire1
+https://dai.fancode.com/linear/hls/pb/event/Mz-GT5u9T12xbIp8BTXZ7g/stream/2ee2fcc5-84f9-4a5d-89fc-b6b894b9dac9:TPE2/master.m3u8?hdnea=st=1702452674~exp=1702452974~acl=*~id=482aaf6f-19f2-4470-a857-2129f5f157e3~hmac=8f2ad9eb4b913820d92ec08547b3ffa0f9dd1aa1ad777f64cc5569b1e2893d79
+
+
+#EXTINF:-1 group-title="Live Channels", Zim vs Ire2
+https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/akvcKpFkL2dLJw1CroZGctpcOqvs21ff3WtkALNcxqVo40hDo6JBkuGbaMmpomIFwbGEbEvaR-vCZKXGFCMojA/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/tw_master_dynamic_highlatency.m3u8?type=live
