@@ -70,13 +70,11 @@ https://dai.google.com/linear/hls/event/ynpJWjySRKilwdcSGkVIng/master.m3u8
 
 
 
-#EXTINF:-1 group-title="Live Channels", Zim vs Ire1
-https://dai.fancode.com/linear/hls/pb/event/Mz-GT5u9T12xbIp8BTXZ7g/stream/2ee2fcc5-84f9-4a5d-89fc-b6b894b9dac9:TPE2/master.m3u8?hdnea=st=1702452674~exp=1702452974~acl=*~id=482aaf6f-19f2-4470-a857-2129f5f157e3~hmac=8f2ad9eb4b913820d92ec08547b3ffa0f9dd1aa1ad777f64cc5569b1e2893d79
+#EXTINF:-1 group-title="Live Channels", Match1
+https://dai.fancode.com/linear/hls/pb/event/dGcyhC5eT0-Ftv7yAYTW_w/stream/e102f860-f193-4e6e-8691-b312ca524b08:SIN/master.m3u8?hdnea=st=1702575653~exp=1702575953~acl=*~id=7b12ee7c-a117-4369-99d5-faa9ae3ee943~hmac=e443d50cf845f4850352b299369aaf93092f0029b412f62b23ae03a9bd1c7569
 
-
-#EXTINF:-1 group-title="Live Channels", Zim vs Ire2
-https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/akvcKpFkL2dLJw1CroZGctpcOqvs21ff3WtkALNcxqVo40hDo6JBkuGbaMmpomIFwbGEbEvaR-vCZKXGFCMojA/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/tw_master_dynamic_highlatency.m3u8?type=live
-
+#EXTINF:-1 group-title="Live Channels", Match2
+https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/UNcbyiAr5K3efCT1deO6mD5E48wcVJ1vMVQdrlfMEnjMYfDuoJvfAE9SFixa_QttdECq7g8bQZ3uUaNtyDzAqw/non_transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/tw_master_dynamic_highlatency.m3u8?type=live
 
 #EXTINF:-1 group-title="Live Channels", Tnt2
 https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/1vWhMKBHYbXoemhRFc4T6tvrWEqUqp-jtz1YorPBTJXHGxiMS9p2d610jN9xX02VF6bcQNRZ_Ul8n9gHIdpVgw/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/tw_master_dynamic_highlatency.m3u8?type=live
@@ -89,3 +87,8 @@ https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/Yjdo8AZmzHzbefz0Zx
 
 #EXTINF:-1 group-title="Live Channels", Criclife
 https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/TDFzFMYNUqgh7ZPDY6J_3-RYj8NYvWL76dlW54iLs1FZxouJPbmtQ_rLom1i50jx4oSqEc1GmU-LRCFzj5V3HQ/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/tw_master_dynamic_highlatency.m3u8?type=live
+
+
+
+#EXTINF:-1 group-title="Live Channels", Live1
+https://dai.google.com/linear/hls/event/aTkvwKrNTOKIdVh-XZHRBg/master.m3u8
