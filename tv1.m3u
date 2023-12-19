@@ -68,14 +68,6 @@ http://temp.mhapurbo1.repl.co/MH-SPORTS/4200/index.ts
 https://dai.google.com/linear/hls/event/ynpJWjySRKilwdcSGkVIng/master.m3u8
 
 
-
-
-#EXTINF:-1 group-title="Live Channels", Match1
-https://dai.google.com/linear/hls/event/hQT_Ijy3QD6rSq5rrQcNrw/master.m3u8
-
-#EXTINF:-1 group-title="Live Channels", Match2
-https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/UNcbyiAr5K3efCT1deO6mD5E48wcVJ1vMVQdrlfMEnjMYfDuoJvfAE9SFixa_QttdECq7g8bQZ3uUaNtyDzAqw/non_transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/tw_master_dynamic_highlatency.m3u8?type=live
-
 #EXTINF:-1 group-title="Live Channels", Tnt2
 https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/1vWhMKBHYbXoemhRFc4T6tvrWEqUqp-jtz1YorPBTJXHGxiMS9p2d610jN9xX02VF6bcQNRZ_Ul8n9gHIdpVgw/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/tw_master_dynamic_highlatency.m3u8?type=live
 
@@ -89,6 +81,12 @@ https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/Yjdo8AZmzHzbefz0Zx
 https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/TDFzFMYNUqgh7ZPDY6J_3-RYj8NYvWL76dlW54iLs1FZxouJPbmtQ_rLom1i50jx4oSqEc1GmU-LRCFzj5V3HQ/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/tw_master_dynamic_highlatency.m3u8?type=live
 
 
-
 #EXTINF:-1 group-title="Live Channels", Live1
-https://dai.google.com/linear/hls/event/aTkvwKrNTOKIdVh-XZHRBg/master.m3u8
+https://dai.google.com/linear/hls/event/cHDe8354Tyy5M7zI0EIUAA/master.m3u8
+
+
+#EXTINF:-1 group-title="Live Channels", Match1
+https://dai.google.com/linear/hls/event/aqliaNJVRtKPUIuEt4oSag/master.m3u8
+
+#EXTINF:-1 group-title="Live Channels", Match2
+https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/UNcbyiAr5K3efCT1deO6mD5E48wcVJ1vMVQdrlfMEnjMYfDuoJvfAE9SFixa_QttdECq7g8bQZ3uUaNtyDzAqw/non_transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/tw_master_dynamic_highlatency.m3u8?type=live
