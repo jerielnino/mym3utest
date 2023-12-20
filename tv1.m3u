@@ -86,7 +86,7 @@ https://dai.google.com/linear/hls/event/cHDe8354Tyy5M7zI0EIUAA/master.m3u8
 
 
 #EXTINF:-1 group-title="Live Channels", Match1
-https://prod-ent-live-gm.jiocinema.com/hls/live/2099846/hd_akamai_merged_avc_eng_laliga_m3_201223/master.m3u8
+https://dai.google.com/linear/hls/event/xGlu6qDLR92V3RC1g8k9OA/master.m3u8
 
 #EXTINF:-1 group-title="Live Channels", Match2
-https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/UNcbyiAr5K3efCT1deO6mD5E48wcVJ1vMVQdrlfMEnjMYfDuoJvfAE9SFixa_QttdECq7g8bQZ3uUaNtyDzAqw/non_transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/tw_master_dynamic_highlatency.m3u8?type=live
+https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/WXx8dy_8jCLidHoskr82Mf-gYIikG93x1qTnoYt1zLtHz2w9q_2fuV-CxvUjB-feZTKjYX26kj6Tx2b1U1XjVg/non_transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/tw_master_dynamic_highlatency.m3u8?type=live
