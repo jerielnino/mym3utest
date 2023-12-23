@@ -82,13 +82,13 @@ https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/TDFzFMYNUqgh7ZPDY
 
 
 #EXTINF:-1 group-title="Live Channels", Live1
-https://dai.google.com/linear/hls/event/cHDe8354Tyy5M7zI0EIUAA/master.m3u8
+https://dai.google.com/linear/hls/event/kXpm1ZfySh204UW6iuiAAg/master.m3u8
 
 
 
 
 #EXTINF:-1 group-title="Live Channels", Live2
-https://prod-sports-eng-gm.jiocinema.com/hls/live/2100307/hd_akamai_iosmob_avc_eng_womenst20_211223/master.m3u8
+https://dai.google.com/ssai/event/kXpm1ZfySh204UW6iuiAAg/master.m3u8
 
 
 
