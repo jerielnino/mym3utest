@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://jerielnino.github.io/mym3utest/images/immage.png", group-title="Live Channels", Live1
+#EXTINF:-1 tvg-logo="http://jerielnino.github.io/mym3utest/images/image.png", group-title="Live Channels", Live1
 https://dai.google.com/ssai/event/DguMmKJoTjWj0shIlDqwJQ/master.m3u8
 
 #EXTINF:-1 group-title="Live Channels", Live2
