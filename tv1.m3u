@@ -3,7 +3,7 @@
 https://dai.google.com/ssai/event/DguMmKJoTjWj0shIlDqwJQ/master.m3u8
 
 #EXTINF:-1 group-title="Live Channels", Live2
-https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_413/output/manifest.mpd?%7CdrmScheme=clearkey&drmLicense=a7641523ac8758e3b1e0df228719e145:b98fba66a6eb9a2cbe9b850ce339bc3
+https://livess.jagobd.com.bd/live-orgin/greentv.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Live Channels", Live3
 https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/ywpmvf-INxeZjKC-bzMBoagZVKhSbHWK97z0tLgViM5qFdNSM5jrv7M9Aux-x5RpbaiP3RAiITF17nUceC4Z2g/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/tw_master_dynamic_highlatency.m3u8?type=live
