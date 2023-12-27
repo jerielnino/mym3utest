@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="http://jerielnino.github.io/mym3utest/images/image.png", group-title="Live Channels", Live1
 https://dai.google.com/ssai/event/DguMmKJoTjWj0shIlDqwJQ/master.m3u8
 
-#EXTINF:-1 group-title="Live Channels", Live2
+#EXTINF:-1 tvg-logo=http://jerielnino.github.io/mym3utest/images/IMG_20231227_125842_885.jpg",group-title="Live Channels", Live2
 https://livess.jagobd.com.bd/live-orgin/greentv.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Live Channels", Live3
