@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://jerielnino.github.io/mym3utest/images/image.png", group-title="Live Channels", Live1
-https://dai.google.com/linear/hls/event/GhRIyIyYQe26Ig3TFUOIIw/master.m3u8non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/tw_master_dynamic_highlatency.m3u8?type=live
+https://dai.google.com/linear/hls/event/GhRIyIyYQe26Ig3TFUOIIw/master.m3u8
 
 #EXTINF:-1 tvg-logo=http://jerielnino.github.io/mym3utest/images/IMG_20231227_125842_885.jpg",group-title="Live Channels", Live2
 https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/7Tld90uuMVWbGiKW9KI4fxf2EX82Ex9o2mp13fo2r6tkez4EyWbtXzK48W_Nxboxz8QpEaQBCC8y4pfnfVbpwg/non_transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/tw_master_dynamic_highlatency.m3u8?type=live
