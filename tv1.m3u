@@ -3,7 +3,7 @@
 https://dai.fancode.com/primary/91121_english_hls_9037adfreeta-di/index.m3u8
 
 #EXTINF:-1 group-title="Live Channels", Foot2
-https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/7Tld90uuMVWbGiKW9KI4fxf2EX82Ex9o2mp13fo2r6tkez4EyWbtXzK48W_Nxboxz8QpEaQBCC8y4pfnfVbpwg/non_transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/tw_master_dynamic_highlatency.m3u8?type=live
+https://prod-sports-north-fa.jiocinema.com/hls/live/2099128/hd_akamai_merged_avc_eng_afc_m1_140124/mobile_master.m3u8
 
 #EXTINF:-1 group-title="Live Channels", Foot3
 https://dai.google.com/linear/hls/event/t0A6wy7sTbiZhliYlcaMwA/master.m3u8
