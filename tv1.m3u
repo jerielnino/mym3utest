@@ -6,10 +6,10 @@ https://dai.fancode.com/primary/91121_english_hls_9037adfreeta-di/index.m3u8
 https://prod-sports-north-fa.jiocinema.com/hls/live/2099128/hd_akamai_merged_avc_eng_afc_m1_140124/mobile_master.m3u8
 
 #EXTINF:-1 group-title="Live Channels", Foot3
-https://dai.google.com/linear/hls/event/t0A6wy7sTbiZhliYlcaMwA/master.m3u8
+https://dai.google.com/linear/hls/event/K2FORrlMTz2G-7FZI3bxZw/master.m3u8
 
 #EXTINF:-1 group-title="Live Channels", Match1
-https://prod-ent-live-gm.jiocinema.com/hls/live/2099118/hd_akamai_merged_avc_mal_isl67/mobile_master.m3u8
+https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/-XdnMQ_1GYE2ynCRj0Dz3cx0hcj2a1MXskTOkeKa_HgtFNmXImmVl3yOErzHjMvR22I9fGXfsMiOXLJZ9dOHEQ/non_transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/tw_master_dynamic_highlatency.m3u8?type=live
 
 #EXTINF:-1 group-title="Live Channels", Match2
 https://prod-ent-live-gm.jiocinema.com/hls/live/2100309/hd_akamai_merged_avc_eng_isl67/mobile_master.m3u8
