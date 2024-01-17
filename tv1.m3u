@@ -1,15 +1,27 @@
 #EXTM3U
-#EXTINF:-1 group-title="Live Channels", Foot1
+#EXTINF:-1 group-title="Live Sports", Foot1
 https://dai.fancode.com/primary/91121_english_hls_9037adfreeta-di/index.m3u8
 
-#EXTINF:-1 group-title="Live Channels", Foot2
+#EXTINF:-1 group-title="Live Sports", Foot2
 https://prod-sports-north-fa.jiocinema.com/hls/live/2099128/hd_akamai_merged_avc_eng_afc_m1_140124/mobile_master.m3u8
 
-#EXTINF:-1 group-title="Live Channels", Foot3
+#EXTINF:-1 group-title="Live Sports", Foot3
 https://dai.google.com/linear/hls/event/K2FORrlMTz2G-7FZI3bxZw/master.m3u8
 
-#EXTINF:-1 group-title="Live Channels", Match1
-https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/-XdnMQ_1GYE2ynCRj0Dz3cx0hcj2a1MXskTOkeKa_HgtFNmXImmVl3yOErzHjMvR22I9fGXfsMiOXLJZ9dOHEQ/non_transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/tw_master_dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 group-title="Live Sports", Match1
+http://starshare.live:8080/live/jareer.me ye/jerielnino.me/23565.ts
 
-#EXTINF:-1 group-title="Live Channels", Match2
-https://prod-ent-live-gm.jiocinema.com/hls/live/2100309/hd_akamai_merged_avc_eng_isl67/mobile_master.m3u8
+#EXTINF:-1 group-title="Live Sports", Match2
+http://starshare.live:8080/live/jareer.me ye/jerielnino.me/148090.ts
+
+#EXTINF:-1 group-title="Live Channels", TNT 1
+http://starshare.live:8080/live/jareer.me ye/jerielnino.me/23564.ts
+
+#EXTINF:-1 group-title="Live Channels", TNT 2
+http://starshare.live:8080/live/jareer.me ye/jerielnino.me/23565.ts
+
+#EXTINF:-1 group-title="Live Channels", TNT 3
+http://starshare.live:8080/live/jareer.me ye/jerielnino.me/148090.ts
+
+#EXTINF:-1 group-title="Live Channels", TNT 4
+http://starshare.live:8080/live/jareer.me ye/jerielnino.me/255259.ts
