@@ -3,10 +3,10 @@
 https://dai.fancode.com/primary/91121_english_hls_9037adfreeta-di/index.m3u8
 
 #EXTINF:-1 group-title="Live Sports", Foot2
-https://prod-sports-north-fa.jiocinema.com/hls/live/2099128/hd_akamai_merged_avc_eng_afc_m1_140124/mobile_master.m3u8
+https://dai.google.com/linear/hls/event/-UgSNEeDQYi1hi-f7NqlIQ/master.m3u8
 
 #EXTINF:-1 group-title="Live Sports", Foot3
-https://dai.google.com/linear/hls/event/K2FORrlMTz2G-7FZI3bxZw/master.m3u8
+https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/jBZv-MqGe4gBeZR-BWBjiketO4vPKEMjNEfv3w7c7yxlZSTE5oTx432ROpKgiMHiw9EjyxPFRS8nbteAadXh8g/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/tw_master_dynamic_highlatency.m3u8?type=live
 
 #EXTINF:-1 group-title="Live Sports", Match1
 http://starshare.live:8080/live/jareer.me ye/jerielnino.me/23565.ts
