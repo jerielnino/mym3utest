@@ -6,7 +6,7 @@ https://dai.google.com/linear/hls/event/4XpIVIY_SDqu-uXDI0qD5Q/master.m3u8
 https://dai.fancode.com/primary/93282_english_hls_9021ta-di/index.m3u8
 
 #EXTINF:-1 group-title="Live Sports", Foot3
-https://dai.google.com/linear/hls/event/v1wUv5RRTSSUKEWt1VtOOg/master.m3u8
+https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/1mQGjOYCmjeKSflfafHLWFZ6tipwfO4v-t0NpvIVU85jFsYfll_WZ5oggwr9q7J0Ohv00Tb0s7sZVBcNXOQh6g/non_transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/master_dynamic_highlatency.m3u8?type=live
 
 #EXTINF:-1 group-title="Live Sports", Match1
 http://starshare.live:8080/live/jareer.me ye/jerielnino.me/23565.ts
