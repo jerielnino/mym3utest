@@ -6,10 +6,10 @@ https://dai.google.com/linear/hls/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8
 https://dai.google.com/linear/hls/event/biQJgf06SJCitj-nd502ow/master.m3u8
 
 #EXTINF:-1 group-title="Live Sports", Foot3
-https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8
+https://dai.google.com/linear/hls/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8
 
 #EXTINF:-1 group-title="Live Sports", Match1
-http://starshare.live:8080/live/jareer.me ye/jerielnino.me/23565.ts
+https://dai.google.com/linear/hls/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8
 
 #EXTINF:-1 group-title="Live Sports", Match2
 http://starshare.live:8080/live/jareer.me ye/jerielnino.me/148090.ts
