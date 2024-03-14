@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 group-title="Live Sports", Foot1
-https://dai.google.com/linear/hls/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8
+https://dai.google.com/linear/hls/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8
 
 #EXTINF:-1 group-title="Live Sports", Foot2
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=st=1710443313~exp=1710443613~acl=*~id=f0bbef34-fe0d-4b02-9a1f-bf05519f6f0a~hmac=9909c858da54fa661f63bc5798ce042838cce0db9c6e8fef561cdd4206ed4ba7&originpath=/linear/hls/pb/event/NVkw1vF1SImKE2QAWVwfBA/stream/e5e677af-a123-4813-8861-22536f65e300:TPE/master.m3u8
+https://dai.google.com/linear/hls/event/biQJgf06SJCitj-nd502ow/master.m3u8
 
 #EXTINF:-1 group-title="Live Sports", Foot3
 https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8
