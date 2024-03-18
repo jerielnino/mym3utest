@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Live Sports", Foot1
-https://dai.google.com/linear/hls/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8
+https://dai.fancode.com/primary/93922_english_hls_8692ta-di/1080p.m3u8
 
 #EXTINF:-1 group-title="Live Sports", Foot2
 https://dai.google.com/linear/hls/event/art28jKeSZOr1kQ5RQhnNA/master.m3u8
