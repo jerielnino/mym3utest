@@ -5,11 +5,14 @@ https://prod-ent-live-gm.jiocinema.com/hls/live/2100299/hd_akamai_androidmob_avc
 #EXTINF:-1 group-title="Live Sports", IPL M1
 https://prod-ent-live-gm.jiocinema.com/hls/live/2100297/uhd_akamai_ctv_avc_eng_ipl_s1_m1260324/master.m3u8
 
-#EXTINF:-1 group-title="Live Sports", Foot3
-https://prod-ent-live-gm.jiocinema.com/hls/live/2099134/hd_akamai_merged_avc_eng_laliga_m1_180324/master.m3u8
-
-#EXTINF:-1 group-title="Live Sports", Match1
+#EXTINF:-1 group-title="Live Sports", Foot1
 https://dai.google.com/linear/hls/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8
+
+#EXTINF:-1 group-title="Live Sports", Foot2
+https://dai.google.com/linear/hls/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8
+
+#EXTINF:-1 group-title="Live Sports", Foot3
+https://dai.google.com/linear/hls/event/biQJgf06SJCitj-nd502ow/master.m3u8
 
 #EXTINF:-1 group-title="Live Sports", Home Cam
 rtsp://jeri7758:Jeri7758@192.168.20.2:554/stream1
