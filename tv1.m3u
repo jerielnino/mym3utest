@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="Live Sports", Foot1
-https://prod-ent-live-gm.jiocinema.com/hls/live/2100297/uhd_akamai_atv_avc_eng_ipl_s1_m1250324/index.m3u8
+#EXTINF:-1 group-title="Live Sports", IPL M1 Adfree
+https://prod-ent-live-gm.jiocinema.com/hls/live/2100299/hd_akamai_androidmob_avc_eng_ipl_s1_m1260324/master.m3u8
 
-#EXTINF:-1 group-title="Live Sports", Foot2
-https://prod-ent-live-gm.jiocinema.com/hls/live/2100297/uhd_akamai_ctv_avc_eng_ipl_s1_m1250324/master.m3u8
+#EXTINF:-1 group-title="Live Sports", IPL M1
+https://prod-ent-live-gm.jiocinema.com/hls/live/2100297/uhd_akamai_ctv_avc_eng_ipl_s1_m1260324/master.m3u8
 
 #EXTINF:-1 group-title="Live Sports", Foot3
 https://prod-ent-live-gm.jiocinema.com/hls/live/2099134/hd_akamai_merged_avc_eng_laliga_m1_180324/master.m3u8
