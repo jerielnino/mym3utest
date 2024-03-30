@@ -28,3 +28,9 @@ https://prod-ent-live-gm.jiocinema.com/hls/live/2099122/hd_akamai_merged_avc_eng
 
 #EXTINF:-1 group-title="Live Sports", Foot4
 https://sportsleading.online/live/stream_7.m3u8
+
+#EXTINF:-1 group-title="Live Sports", AL NASSR VS AL TAI (SAUDI PRO LEAGUE)
+https://dai.google.com/linear/hls/event/DX_lMgd6R42vY1wSWgXg9A/master.m3u8
+
+#EXTINF:-1 group-title="Live Sports", AL NASSR VS AL TAI (SAUDI PRO LEAGUE) World
+https://pubads.g.doubleclick.net/ssai/event/DX_lMgd6R42vY1wSWgXg9A/master.m3u8
