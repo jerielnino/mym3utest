@@ -29,8 +29,17 @@ https://prod-ent-live-gm.jiocinema.com/hls/live/2099122/hd_akamai_merged_avc_eng
 #EXTINF:-1 group-title="Live Sports", Foot4
 https://sportsleading.online/live/stream_7.m3u8
 
+#EXTINF:-1 group-title="Live Sports", BRENTFORD VS MANCHESTER UNITED (EPL 23-24) World
+https://edge2.laotv.la/live/TSport2/sc-gaFECQ/v1_index.m3u8
+
 #EXTINF:-1 group-title="Live Sports", AL NASSR VS AL TAI (SAUDI PRO LEAGUE)
 https://dai.google.com/linear/hls/event/DX_lMgd6R42vY1wSWgXg9A/master.m3u8
 
 #EXTINF:-1 group-title="Live Sports", AL NASSR VS AL TAI (SAUDI PRO LEAGUE) World
 https://pubads.g.doubleclick.net/ssai/event/DX_lMgd6R42vY1wSWgXg9A/master.m3u8
+
+#EXTINF:-1 group-title="Live Sports", BARCELONA VS LAS PALMAS (LALIGA 23-24) 
+https://prod-ent-live-gm.jiocinema.com/hls/live/2099134/hd_akamai_merged_avc_eng_laliga_m1_310324/master.m3u8
+
+#EXTINF:-1 group-title="Live Sports", BARCELONA VS LAS PALMAS (LALIGA 23-24)  World
+https://sportsleading.online/live/stream_6.m3u8
