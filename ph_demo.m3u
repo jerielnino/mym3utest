@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 group-title="Live Sports", IPL M1 Adfree
-https://prod-ent-live-gm.jiocinema.com/hls/live/2100299/hd_akamai_androidmob_avc_eng_ipl_s1_m1310324/master.m3u8
+https://prod-ent-live-gm.jiocinema.com/hls/live/2100306/hd_akamai_androidmob_avc_eng_ipl_s2_m2310324/master.m3u8
 
 #EXTINF:-1 group-title="Live Sports", IPL M1
-https://prod-ent-live-gm.jiocinema.com/hls/live/2100297/uhd_akamai_ctv_avc_eng_ipl_s1_m1290324/master.m3u8
+https://prod-ent-live-gm.jiocinema.com/hls/live/2100307/uhd_akamai_ctv_avc_eng_ipl_s2_m2310324/master.m3u8
 
 #EXTINF:-1 group-title="Live Sports", IPL M1 Worldwide
 https://catowrap.live/mrgamingsscric.m3u8
