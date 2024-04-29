@@ -18,7 +18,7 @@ https://dai.google.com/linear/hls/event/ARSsLLOjSl2bsGjkQB2UAw/master.m3u8
 https://dai.google.com/linear/hls/event/DX_lMgd6R42vY1wSWgXg9A/master.m3u8
 
 #EXTINF:-1 group-title="Live Sports", Home Cam
-rtsp://jeri7758:Jeri7758@192.168.20.2:554/stream1
+rtsp://jeri7758:Jeri7758@192.168.20.4:554/stream1
 
 #EXTINF:-1 group-title="Live Channels", TNT 1
 http://starshare.live:8080/live/jareer.me ye/jerielnino.me/23564.ts
