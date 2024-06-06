@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94cricket%20sport%20vector%20logo%20design_9160032.png" , Cric1
-https://dai.google.com/linear/hls/event/QNEZiPzpTXucyrbpCjdZTw/master.m3u8
+http://live11p-ssai-akt-mum.cdn.hotstar.com/hls/live/2003693/inallow-icct20wc-2024/eng/1540029935/15mindvrm01a605cad1e00348b2b070e3088c0f3e1206june2024/master_apmf_480_4.m3u8?|Cookie=hdntl=exp=1717774489~acl=%2fhls%2flive%2f2003693%2finallow-icct20wc-2024%2feng%2f1540029935%2f15mindvrm01a605cad1e00348b2b070e3088c0f3e1206june2024%2fmaster_apmf*~id=7dd3cf4ba23a9734655cc2ba50adbbbb~data=ip%3dc7pl9wovvYzGMyQYuOAY3J-userid%3dmGCwyTX0lclNw5s398FWiOl4FTg1oDeDK26hFsJ0UN0x-did%3dU5VBYPQhwa9pMk8cTYCjNX4yjct25uhBn7jtdzEB4PpmFvQ2a1ivEyr-cc%3din-~hmac=7aa000061160265aea2bb532a338214623f111a2fa8fa813426c4aa7ee840030
 
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94cricket%20sport%20vector%20logo%20design_9160032.png" , Cric2
 https://dai.fancode.com/primary/102070_english_hls_18ta-no/index.m3u8
