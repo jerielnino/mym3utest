@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv generator-info-date="2024-06-19 05:15" generator-info-name="mym3utest" generator-info-url="http://elnino.uk.to/epg/">
-	<channel id="CCTV8K">
-        <display-name lang="En">Euro 1</display-name>
+	<channel id="Euro 1">
+        <display-name>Euro 1</display-name>
     </channel>
     <programme channel="Euro 1" start="20240619070135 +0800" stop="20240719070305 +0800">
         <title lang="En"> Spain vs Ireland </title>
