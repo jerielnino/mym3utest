@@ -51,7 +51,7 @@ rtsp://jeri7758:Jeri7758@192.168.20.4:554/stream1
 #EXTINF:-1 tvg-id="SSSelect1" tvg-name="SS Select 1" group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94cricket%20sport%20vector%20logo%20design_9160032.png" , Cric wc2 - Star Sports Select1 HD
 https://mpd-v1.bigcric.site/api/246.mpd?%7CdrmScheme=clearkey&drmLicense=https://www.bigcric.site/bigcchubchat/keys.php?show_id=246#Intent;package=com.genuine.leone;end
 
-#EXTINF:-1 tvg-id="SSSelect2" tvg-name="SS Select 2" group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94cricket%20sport%20vector%20logo%20design_9160032.png" , Cric wc2 - Star Sports Select1 HD
+#EXTINF:-1 tvg-id="SSSelect2" tvg-name="SS Select 2" group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94cricket%20sport%20vector%20logo%20design_9160032.png" , Cric wc2 - Star Sports Select2 HD
 https://mpd-v1.bigcric.site/api/463.mpd?%7CdrmScheme=clearkey&drmLicense=https://www.bigcric.site/bigcchubchat/keys.php?show_id=463#Intent;package=com.genuine.leone;end
 
 #EXTINF:-1 group-title="Live Channels", TNT 1
