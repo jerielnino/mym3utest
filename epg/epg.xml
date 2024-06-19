@@ -1,10 +1,94 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv generator-info-date="2024-06-19 05:15" generator-info-name="mym3utest" generator-info-url="http://elnino.uk.to/epg/">
+	<channel id="Cric1">
+        <display-name>Cric 1</display-name>
+    </channel>
+    <channel id="Cric2">
+        <display-name>Cric 2</display-name>
+    </channel>
+    <channel id="Cric3">
+        <display-name>Cric 3</display-name>
+    </channel>
+    <channel id="Cric4">
+        <display-name>Cric 4</display-name>
+    </channel>
+    <channel id="Cric5">
+        <display-name>Cric 5</display-name>
+    </channel>
+    <channel id="Cric6">
+        <display-name>Cric 6</display-name>
+    </channel>
+    <channel id="Cric7">
+        <display-name>Cric 7</display-name>
+    </channel>
+    <channel id="Cric8">
+        <display-name>Cric 8</display-name>
+    </channel>
 	<channel id="Euro1">
         <display-name>Euro 1</display-name>
     </channel>
-    <programme channel="Euro 1" start="20240619070135 +0800" stop="20240719070305 +0800">
-        <title lang="En"> Spain vs Ireland </title>
+    <channel id="Euro2">
+        <display-name>Euro 1</display-name>
+    </channel>
+    <channel id="Euro3">
+        <display-name>Euro 1</display-name>
+    </channel>
+    <channel id="Euro4">
+        <display-name>Euro 1</display-name>
+    </channel>
+    <channel id="Euro5">
+        <display-name>Euro 1</display-name>
+    </channel>
+    <programme channel="Cric1" start="20240619070135 +0800" stop="20240719070305 +0800">
+        <title lang="En"> No Live Matches </title>
+        <desc lang="En"> </desc>
+    </programme>
+    <programme channel="Cric2" start="20240619070135 +0800" stop="20240719070305 +0800">
+        <title lang="En"> No Live Matches </title>
+        <desc lang="En"> </desc>
+    </programme>
+    <programme channel="Cric3" start="20240619070135 +0800" stop="20240719070305 +0800">
+        <title lang="En"> No Live Matches </title>
+        <desc lang="En"> </desc>
+    </programme>
+    <programme channel="Cric4" start="20240619070135 +0800" stop="20240719070305 +0800">
+        <title lang="En"> No Live Matches </title>
+        <desc lang="En"> </desc>
+    </programme>
+    <programme channel="Cric5" start="20240619070135 +0800" stop="20240719070305 +0800">
+        <title lang="En"> No Live Matches </title>
+        <desc lang="En"> </desc>
+    </programme>
+    <programme channel="Cric6" start="20240619070135 +0800" stop="20240719070305 +0800">
+        <title lang="En"> No Live Matches </title>
+        <desc lang="En"> </desc>
+    </programme>
+    <programme channel="Cric7" start="20240619070135 +0800" stop="20240719070305 +0800">
+        <title lang="En"> No Live Matches </title>
+        <desc lang="En"> </desc>
+    </programme>
+    <programme channel="Cric8" start="20240619070135 +0800" stop="20240719070305 +0800">
+        <title lang="En"> India Women vs South Africa Women </title>
+        <desc lang="En"> </desc>
+    </programme>
+    <programme channel="Euro1" start="20240619070135 +0800" stop="20240719070305 +0800">
+        <title lang="En"> No Live Matches </title>
+        <desc lang="En"> </desc>
+    </programme>
+        <programme channel="Euro2" start="20240619070135 +0800" stop="20240719070305 +0800">
+        <title lang="En"> No Live Matches </title>
+        <desc lang="En"> </desc>
+    </programme>
+        <programme channel="Euro3" start="20240619070135 +0800" stop="20240719070305 +0800">
+        <title lang="En"> No Live Matches </title>
+        <desc lang="En"> </desc>
+    </programme>
+        <programme channel="Euro4" start="20240619070135 +0800" stop="20240719070305 +0800">
+        <title lang="En"> No Live Matches </title>
+        <desc lang="En"> </desc>
+    </programme>
+        <programme channel="Euro5" start="20240619070135 +0800" stop="20240719070305 +0800">
+        <title lang="En"> No Live Matches </title>
         <desc lang="En"> </desc>
     </programme>
 </tv>
