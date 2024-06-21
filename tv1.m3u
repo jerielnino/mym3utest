@@ -1,9 +1,9 @@
 #EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?contentID=78&key
+#KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=78&key
 #EXTINF:-1 tvg-id="Cric1" tvg-name="Cric 1" group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94cricket%20sport%20vector%20logo%20design_9160032.png" , Cric wc1 - Star Sports 1
-https://mpd-v1.bigcric.site/api/78.mpd?contentID=78
+https://mpd-v1.bigcric.site/api/235.mpd?%7CdrmScheme=clearkey&drmLicense=https://www.bigcric.site/bigcchubchat/keys.php?show_id=78#Intent;package=com.genuine.leone;end
 
 #EXTINF:-1 tvg-id="Cric1" tvg-name="Cric 1" group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94cricket%20sport%20vector%20logo%20design_9160032.png" , Cric wc1 - Star Sports 1 Alt
 https://ardinesh-pc-remote.puspas.com.np/live-tv/pkg/live/nettv-universal/star-sports-1-hd/index.ts
