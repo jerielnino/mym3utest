@@ -34,6 +34,7 @@ https://live11p-ssai-akt-mum.cdn.hotstar.com/hls/live/2003693/inallow-icct20wc-2
 #EXTINF:-1 tvg-id="Cric8" tvg-name="Cric 8" group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94cricket%20sport%20vector%20logo%20design_9160032.png" , Cric 8
 https://prod-sports-eng.jiocinema.com/hls/live/2100310/hd_akamai_iosmob_avc_eng_indsawomens_m1_190624/master.m3u8
 
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 #EXTINF:-1 tvg-id="Euro1" tvg-name="Euro 1" group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94world%20cup%20russia%20world%20cup_3928185.png", Euro 1
 https://pubads.g.doubleclick.net/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8
 
