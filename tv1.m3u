@@ -1,16 +1,4 @@
-#EXTM3U x-tvg-url="https://github.com/mitthu786/tvepg/blob/main/tataplay/epg.xml.gz"
-
-#EXTINF:-1 tvg-id="78" group-title="Sports", tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png", Star Sports 1 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"FS0szrLM2PbT3zlQ6wIB7w","kid":"bzPPNO0OVeekubdetZZaWw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://bpweb2.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/manifest.mpd|cookie:hdntl=exp=1719149901~acl=%2f*~data=hdntl~hmac=136ed501802c401e3878c7a1dbaf5627933c902603b506872719cee128f0dc04
-
-#EXTINF:-1 tvg-id="235" group-title="Sports", tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png", Star Sports 2 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"OraNEiG7MWj+53NpACwpow","kid":"l0Q9S2dVUFaHpET01yNX1Q"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_251/output/manifest.mpd|cookie:hdntl=exp=1719149901~acl=%2f*~data=hdntl~hmac=136ed501802c401e3878c7a1dbaf5627933c902603b506872719cee128f0dc04
+#EXTM3U
 
 #EXTINF:-1 tvg-id="1033" group-title="Sports", tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-74232-la6z41u8-v3/imageContent-74232-la6z41u8-m5.png", Sports 18 - 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -18,14 +6,14 @@ https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_251/output/manifest.mpd|c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_1852/output/manifest.mpd|cookie:hdntl=exp=1719149901~acl=%2f*~data=hdntl~hmac=136ed501802c401e3878c7a1dbaf5627933c902603b506872719cee128f0dc04
 
-#EXTINF:-1 tvg-id="Cric1" tvg-name="Cric 1" group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94cricket%20sport%20vector%20logo%20design_9160032.png" , Cric wc - Star Sports 1 back
+#EXTINF:-1 tvg-id="Cric1" tvg-name="Cric 1" group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94cricket%20sport%20vector%20logo%20design_9160032.png" , Cric wc - Star Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://mpd-v1.bigcric.site/api/78.mpd?%7CdrmScheme=clearkey&drmLicense=https://www.bigcric.site/bigcchubchat/keys.php?show_id=78#Intent;package=com.genuine.leone;end
 
 #EXTINF:-1 tvg-id="Cric1" tvg-name="Cric 1" group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94cricket%20sport%20vector%20logo%20design_9160032.png" , Cric wc - Star Sports 1 Alt
 https://ardinesh-pc-remote.puspas.com.np/live-tv/pkg/live/nettv-universal/star-sports-1-hd/index.ts
 
-#EXTINF:-1 tvg-id="Cric2" tvg-name="Cric 2" group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94cricket%20sport%20vector%20logo%20design_9160032.png" , Cric wc - Star Sports 2 back
+#EXTINF:-1 tvg-id="Cric2" tvg-name="Cric 2" group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94cricket%20sport%20vector%20logo%20design_9160032.png" , Cric wc - Star Sports 2
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 https://mpd-v1.bigcric.site/api/235.mpd?%7CdrmScheme=clearkey&drmLicense=https://www.bigcric.site/bigcchubchat/keys.php?show_id=235#Intent;package=com.genuine.leone;end
 
@@ -151,170 +139,9 @@ http://starshare.live:8080/live/jareer.me ye/jerielnino.me/255259.ts
 #EXTINF:-1 group-title="Malayalam", Asianet Movies HD
 http://livetvbox.live:8080/47djShaqib-_-28EDJ9edn2894dcn928SJ10SZ_29_-_19@zsjwdj2389dn1/dkj28sj@83jSI-__-__sjwej38ds@8edjx39djKX29dh2ixwj2849dsh28dj24/177842
 
-#EXTINF:-1 tvg-id="230" group-title="Malayalam", tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1005-j5nfiy9c-v1/imageContent-1005-j5nfiy9c-m1.png", Surya TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"LedGxvUQDXJGLKVGpQe15A","kid":"Dw8dEU3lVeGNYeLJL/WeXQ"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_212/output/manifest.mpd|cookie:hdntl=exp=1719149901~acl=%2f*~data=hdntl~hmac=136ed501802c401e3878c7a1dbaf5627933c902603b506872719cee128f0dc04
 
-#EXTINF:-1 tvg-id="292" group-title="Malayalam", tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11246-j9iw5g74-v3/imageContent-11246-j9iw5g74-m3.png", Asianet HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"bGL2VarzbAH25nNH08xsow","kid":"ZEEL/qvJWjiA9GUMcoU0ig"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_464/output/manifest.mpd|cookie:hdntl=exp=1719149901~acl=%2f*~data=hdntl~hmac=136ed501802c401e3878c7a1dbaf5627933c902603b506872719cee128f0dc04
-
-#EXTINF:-1 tvg-id="294" group-title="Malayalam", tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11254-j9ixwlcg-v1/imageContent-11254-j9ixwlcg-m1.png", Asianet Plus
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"yZSxl/bBc5ZBv46FXz/NQw","kid":"T9T6+xhvWKatiwMF+7UqxQ"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://bpweb3.akamaized.net/bpk-tv/irdeto_com_Channel_467/output/manifest.mpd|cookie:hdntl=exp=1719149901~acl=%2f*~data=hdntl~hmac=136ed501802c401e3878c7a1dbaf5627933c902603b506872719cee128f0dc04
-
-#EXTINF:-1 tvg-id="953" group-title="Malayalam", tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-66564-kup0jo0w-v1/imageContent-66564-kup0jo0w-m3.png", Asianet Plus
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=null
-#EXTVLCOPT:http-user-agent=null
-https://delta43tatasky.akamaized.net/out/i/2034251.mpd|cookie:hdntl=exp=1719149901~acl=%2f*~data=hdntl~hmac=136ed501802c401e3878c7a1dbaf5627933c902603b506872719cee128f0dc04
-
-#EXTINF:-1 tvg-id="694" group-title="Malayalam", tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35312-jqy146c8-v3/imageContent-35312-jqy146c8-m8.png", Zee Keralam HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"VSAA2lBgXsN2mlslgsWdIg","kid":"fhul2FJ9UwKdya2XVQSyBw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://bpweb3.akamaized.net/bpk-tv/irdeto_com_Channel_933/output/manifest.mpd|cookie:hdntl=exp=1719149901~acl=%2f*~data=hdntl~hmac=136ed501802c401e3878c7a1dbaf5627933c902603b506872719cee128f0dc04
-
-#EXTINF:-1 tvg-id="10" group-title="Malayalam", tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-27-j5fbpbbs-v1/imageContent-27-j5fbpbbs-m1.png", Flowers
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"h1XdQgk9ANLUiZuWXqqzJA","kid":"6VJshX1TXlqjuvYmWuFYcg"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_318/output/manifest.mpd|cookie:hdntl=exp=1719149901~acl=%2f*~data=hdntl~hmac=136ed501802c401e3878c7a1dbaf5627933c902603b506872719cee128f0dc04
-
-#EXTINF:-1 tvg-id="395" group-title="Malayalam", tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11577-j9jv8mqg-v1/imageContent-11577-j9jv8mqg-m1.png", Mazhavil Manorama HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"96cZntkF+LNhGih8IgH9dA","kid":"CktO3VNyWVK6KURfD0Qemg"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://bpweb3.akamaized.net/bpk-tv/irdeto_com_Channel_621/output/manifest.mpd|cookie:hdntl=exp=1719149901~acl=%2f*~data=hdntl~hmac=136ed501802c401e3878c7a1dbaf5627933c902603b506872719cee128f0dc04
-
-#EXTINF:-1 tvg-id="25" group-title="Malayalam", tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-33-j5fc5fko-v1/imageContent-33-j5fc5fko-m1.png", Kairali TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"xv+grCdwPg7d2ixlMq7LfQ","kid":"of1nScaHXl6DU0fxFhLYZg"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_319/output/manifest.mpd|cookie:hdntl=exp=1719149901~acl=%2f*~data=hdntl~hmac=136ed501802c401e3878c7a1dbaf5627933c902603b506872719cee128f0dc04
-
-#EXTINF:-1 tvg-id="553" group-title="Malayalam", tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12065-j9o9phqg-v1/imageContent-12065-j9o9phqg-m1.png", We TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"qudcTBM2Pf9GuQpLpZ7+Sw","kid":"yoiJrZAuUmyoi40sYwW96A"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_322/output/manifest.mpd|cookie:hdntl=exp=1719149901~acl=%2f*~data=hdntl~hmac=136ed501802c401e3878c7a1dbaf5627933c902603b506872719cee128f0dc04
-
-#EXTINF:-1 tvg-id="178" group-title="Malayalam", tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-762-j5m21xqw-v1/imageContent-762-j5m21xqw-m1.png", Amrita TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"kXTiP51Q19X2ERdtTsu1Hg","kid":"ldoyqIKeV8WM5IahyWnJ2w"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_325/output/manifest.mpd|cookie:hdntl=exp=1719149901~acl=%2f*~data=hdntl~hmac=136ed501802c401e3878c7a1dbaf5627933c902603b506872719cee128f0dc04
-
-#EXTINF:-1 tvg-id="229" group-title="Malayalam", tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1008-j5nfqjeo-v1/imageContent-1008-j5nfqjeo-m1.png", Surya Movies
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"DwHzkrvpOfMJEer+q38D8Q","kid":"EpDuwpg0UsKlWLZOloMKrA"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_243/output/manifest.mpd|cookie:hdntl=exp=1719149901~acl=%2f*~data=hdntl~hmac=136ed501802c401e3878c7a1dbaf5627933c902603b506872719cee128f0dc04
-
-#EXTINF:-1 tvg-id="293" group-title="Malayalam", tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11251-j9ixmaz4-v1/imageContent-11251-j9ixmaz4-m1.png", Asianet Movies
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"knpoBHoqm/TeL6ZK7ZIv0g","kid":"9a/Oe/+DX1+PUR5RAdS7Dg"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_465/output/manifest.mpd|cookie:hdntl=exp=1719149901~acl=%2f*~data=hdntl~hmac=136ed501802c401e3878c7a1dbaf5627933c902603b506872719cee128f0dc04
-
-#EXTINF:-1 tvg-id="933" group-title="Movies", tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-64891-ks8v01o8-v1/imageContent-64891-ks8v01o8-m2.png", Asianet Movies
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=null
-#EXTVLCOPT:http-user-agent=null
-https://delta31tatasky.akamaized.net/out/i/29273.mpd|cookie:hdntl=exp=1719149901~acl=%2f*~data=hdntl~hmac=136ed501802c401e3878c7a1dbaf5627933c902603b506872719cee128f0dc04
-
-#EXTINF:-1 tvg-id="436" group-title="Malayalam", tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11709-j9kt6bg0-v1/imageContent-11709-j9kt6bg0-m1.png", Safari TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"wFiF5mmXY2ADTlC7pgjSDw","kid":"Ng3aqwt8VDKYuoD/jC70Ew"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_698/output/manifest.mpd|cookie:hdntl=exp=1719149901~acl=%2f*~data=hdntl~hmac=136ed501802c401e3878c7a1dbaf5627933c902603b506872719cee128f0dc04
-
-#EXTINF:-1 tvg-id="532" group-title="News", tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12020-j9ntf12w-v1/imageContent-12020-j9ntf12w-m1.png", Asianet News
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"STuscCOq54fFe+CZJh9P2A","kid":"NWaAPKp3XtOeIf5kXvDDlg"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_466/output/manifest.mpd|cookie:hdntl=exp=1719149901~acl=%2f*~data=hdntl~hmac=136ed501802c401e3878c7a1dbaf5627933c902603b506872719cee128f0dc04
-
-#EXTINF:-1 tvg-id="66" group-title="Malayalam", tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12309-ja9ac8n4-v1/imageContent-12309-ja9ac8n4-m1.png", News18 Kerala
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"FZgmKeeay1pXKQHyarXzeg","kid":"5B4gC8BJV7uHOyMwlAMIOQ"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_374/output/manifest.mpd|cookie:hdntl=exp=1719149901~acl=%2f*~data=hdntl~hmac=136ed501802c401e3878c7a1dbaf5627933c902603b506872719cee128f0dc04
-
-#EXTINF:-1 tvg-id="87" group-title="Malayalam", tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-279-j5jcwqts-v1/imageContent-279-j5jcwqts-m2.png", Manorama News
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Hom7onGl5j6cW6+FDLml3w","kid":"io0sKY35VVq137HtKzbGCg"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_244/output/manifest.mpd|cookie:hdntl=exp=1719149901~acl=%2f*~data=hdntl~hmac=136ed501802c401e3878c7a1dbaf5627933c902603b506872719cee128f0dc04
-
-#EXTINF:-1 tvg-id="394" group-title="Malayalam", tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11572-j9jv7wi0-v1/imageContent-11572-j9jv7wi0-m1.png", Mathrubhumi News
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"yBSXt37xrK3QAQ77au6Lhw","kid":"vQA48R+2XMW7hbw/X9qqng"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_620/output/manifest.mpd|cookie:hdntl=exp=1719149901~acl=%2f*~data=hdntl~hmac=136ed501802c401e3878c7a1dbaf5627933c902603b506872719cee128f0dc04
-
-#EXTINF:-1 tvg-id="211" group-title="Malayalam", tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-855-j5ma1eig-v2/imageContent-855-j5ma1eig-m2.png", Kairali News
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"CdT1X+Hl3M40j7pCIdrixQ","kid":"izboVn85W6GFu5C1h8ILKw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_323/output/manifest.mpd|cookie:hdntl=exp=1719149901~acl=%2f*~data=hdntl~hmac=136ed501802c401e3878c7a1dbaf5627933c902603b506872719cee128f0dc04
-
-#EXTINF:-1 tvg-id="370" group-title="Malayalam", tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11495-j9jtg2ns-v2/imageContent-11495-j9jtg2ns-m2.png", Jaihind TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Sq70K8ZXoPiedRcddOuBSw","kid":"AcJRzfZzWMGjdhC/9pjO+Q"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://bpweb2.akamaized.net/bpk-tv/irdeto_com_Channel_581/output/manifest.mpd|cookie:hdntl=exp=1719149901~acl=%2f*~data=hdntl~hmac=136ed501802c401e3878c7a1dbaf5627933c902603b506872719cee128f0dc04
-
-#EXTINF:-1 tvg-id="576" group-title="Malayalam", tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/MEON_Thumbnail-v3/MEON_Thumbnail.png", Media One
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"UuK9Z2NoW8/qjJKKa9fk1w","kid":"UJLoJ6NzXmqFxeRpZioztA"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_321/output/manifest.mpd|cookie:hdntl=exp=1719149901~acl=%2f*~data=hdntl~hmac=136ed501802c401e3878c7a1dbaf5627933c902603b506872719cee128f0dc04
-
-#EXTINF:-1 tvg-id="378" group-title="Malayalam", tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11524-j9jtu07c-v2/imageContent-11524-j9jtu07c-m2.png", Kaumudy TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"7cYzc5iA/vLR7rGz5Owl0Q","kid":"51b7rkc1W+6cBZX3ExsN9g"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://bpweb2.akamaized.net/bpk-tv/irdeto_com_Channel_595/output/manifest.mpd|cookie:hdntl=exp=1719149901~acl=%2f*~data=hdntl~hmac=136ed501802c401e3878c7a1dbaf5627933c902603b506872719cee128f0dc04
-
-#EXTINF:-1 tvg-id="428" group-title="Malayalam", tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11694-j9kjc0tc-v1/imageContent-11694-j9kjc0tc-m1.png", Raj News Malayalam
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ah8FIn90Ua6sBP2TzzEkvw","kid":"FF0s3lImW32mTQUaKR9zAA"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_689/output/manifest.mpd|cookie:hdntl=exp=1719149901~acl=%2f*~data=hdntl~hmac=136ed501802c401e3878c7a1dbaf5627933c902603b506872719cee128f0dc04
-
-#EXTINF:-1 tvg-id="799" group-title="Malayalam", tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49022-k5lxarmw-v2/imageContent-49022-k5lxarmw-m2.png", Twenty Four
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"osmO1tmvsr5JXQCl9Nk4ug","kid":"KJPzjXUNXrCwhUP45ugtxw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://bpweb2.akamaized.net/bpk-tv/irdeto_com_Channel_990/output/manifest.mpd|cookie:hdntl=exp=1719149901~acl=%2f*~data=hdntl~hmac=136ed501802c401e3878c7a1dbaf5627933c902603b506872719cee128f0dc04
-
-#EXTINF:-1 tvg-id="1124" group-title="Malayalam", tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/RETV_Thumbnail-v2/RETV_Thumbnail.png", Reporter TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"TfRAvATJaR8Bx4kVm8IOqQ","kid":"2cQb7YvIUFyOkaRqNln4eQ"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_1922/output/manifest.mpd|cookie:hdntl=exp=1719149901~acl=%2f*~data=hdntl~hmac=136ed501802c401e3878c7a1dbaf5627933c902603b506872719cee128f0dc04
-
-#EXTINF:-1 tvg-id="541" group-title="Malayalam", tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11688-j9kiz1zs-v1/imageContent-11688-j9kiz1zs-m1.png", Raj Musix Malayalam
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"1FmqlA3AsdmbmhFR2xt56w","kid":"pXcF0r3CWyqocMmE5yRV+g"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_686/output/manifest.mpd|cookie:hdntl=exp=1719149901~acl=%2f*~data=hdntl~hmac=136ed501802c401e3878c7a1dbaf5627933c902603b506872719cee128f0dc04
-
-#EXTINF:-1 tvg-id="377" group-title="Malayalam", tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11520-j9jtr0y8-v1/imageContent-11520-j9jtr0y8-m1.png", Kappa TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"2sHNIcbK9wuKF/KBOTpCqA","kid":"mE6QDO2FX5yIH0qzZ7TBDA"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_593/output/manifest.mpd|cookie:hdntl=exp=1719149901~acl=%2f*~data=hdntl~hmac=136ed501802c401e3878c7a1dbaf5627933c902603b506872719cee128f0dc04
-
+#EXTINF:-1 tvg-id="Cric1" tvg-name="Cric 1" group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94cricket%20sport%20vector%20logo%20design_9160032.png" , Xtra1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=78&key
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Cric1" tvg-name="Cric 1" group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94cricket%20sport%20vector%20logo%20design_9160032.png" , Xtra1
 https://mpd-v1.bigcric.site/api/78.mpd
