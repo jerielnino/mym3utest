@@ -19,21 +19,21 @@ https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_251/output/manifest.mpd|c
 https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_1852/output/manifest.mpd|cookie:hdntl=exp=1719149901~acl=%2f*~data=hdntl~hmac=136ed501802c401e3878c7a1dbaf5627933c902603b506872719cee128f0dc04
 
 #EXTINF:-1 tvg-id="Cric1" tvg-name="Cric 1" group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94cricket%20sport%20vector%20logo%20design_9160032.png" , Cric wc - Star Sports 1 back
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://mpd-v1.bigcric.site/api/78.mpd?%7CdrmScheme=clearkey&drmLicense=https://www.bigcric.site/bigcchubchat/keys.php?show_id=78#Intent;package=com.genuine.leone;end
 
 #EXTINF:-1 tvg-id="Cric1" tvg-name="Cric 1" group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94cricket%20sport%20vector%20logo%20design_9160032.png" , Cric wc - Star Sports 1 Alt
 https://ardinesh-pc-remote.puspas.com.np/live-tv/pkg/live/nettv-universal/star-sports-1-hd/index.ts
 
 #EXTINF:-1 tvg-id="Cric2" tvg-name="Cric 2" group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94cricket%20sport%20vector%20logo%20design_9160032.png" , Cric wc - Star Sports 2 back
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 https://mpd-v1.bigcric.site/api/235.mpd?%7CdrmScheme=clearkey&drmLicense=https://www.bigcric.site/bigcchubchat/keys.php?show_id=235#Intent;package=com.genuine.leone;end
 
 #EXTINF:-1 tvg-id="Cric1" tvg-name="Cric 1" group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94cricket%20sport%20vector%20logo%20design_9160032.png" , Cric wc - Star Sports 2 Alt
 https://ardinesh-pc-remote.puspas.com.np/live-tv/pkg/live/nettv-universal/star-sports-2-hd/index.ts
 
-
 #EXTINF:-1 tvg-id="Cric3" tvg-name="Cric 3" group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94cricket%20sport%20vector%20logo%20design_9160032.png" , Cric wc - Astro Cricket
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default.mpd?%7CdrmScheme=clearkey&drmLicense=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
-
 
 #EXTINF:-1 tvg-id="Cric3" tvg-name="Cric 3" group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94cricket%20sport%20vector%20logo%20design_9160032.png" , Cric wc - Astro Cricket Test
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
