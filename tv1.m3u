@@ -1,20 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="1033" group-title="Sports", tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-74232-la6z41u8-v3/imageContent-74232-la6z41u8-m5.png", Sports 18 - 1 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"s3LuCyguK8qtMXAiicszjw","kid":"GS3V8HedWYOjqhgnap+3GQ"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_1852/output/manifest.mpd|cookie:hdntl=exp=1719149901~acl=%2f*~data=hdntl~hmac=136ed501802c401e3878c7a1dbaf5627933c902603b506872719cee128f0dc04
-
 #EXTINF:-1 tvg-id="Cric1" tvg-name="Cric 1" group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94cricket%20sport%20vector%20logo%20design_9160032.png" , Cric wc - Star Sports 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://mpd-v1.bigcric.site/api/78.mpd?%7CdrmScheme=clearkey&drmLicense=https://www.bigcric.site/bigcchubchat/keys.php?show_id=78#Intent;package=com.genuine.leone;end
 
 #EXTINF:-1 tvg-id="Cric1" tvg-name="Cric 1" group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94cricket%20sport%20vector%20logo%20design_9160032.png" , Cric wc - Star Sports 1 Alt
 https://ardinesh-pc-remote.puspas.com.np/live-tv/pkg/live/nettv-universal/star-sports-1-hd/index.ts
 
 #EXTINF:-1 tvg-id="Cric2" tvg-name="Cric 2" group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94cricket%20sport%20vector%20logo%20design_9160032.png" , Cric wc - Star Sports 2
-#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 https://mpd-v1.bigcric.site/api/235.mpd?%7CdrmScheme=clearkey&drmLicense=https://www.bigcric.site/bigcchubchat/keys.php?show_id=235#Intent;package=com.genuine.leone;end
 
 #EXTINF:-1 tvg-id="Cric1" tvg-name="Cric 1" group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94cricket%20sport%20vector%20logo%20design_9160032.png" , Cric wc - Star Sports 2 Alt
@@ -27,7 +19,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default.mpd?%7CdrmS
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default.mpd
+
+#EXTINF:-1 tvg-id="1033" group-title="Sports", tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-74232-la6z41u8-v3/imageContent-74232-la6z41u8-m5.png", Sports 18 - 1 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"s3LuCyguK8qtMXAiicszjw","kid":"GS3V8HedWYOjqhgnap+3GQ"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_1852/output/manifest.mpd|cookie:hdntl=exp=1719149901~acl=%2f*~data=hdntl~hmac=136ed501802c401e3878c7a1dbaf5627933c902603b506872719cee128f0dc04
 
 #EXTINF:-1 tvg-id="Cric3" tvg-name="Cric 3" group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94cricket%20sport%20vector%20logo%20design_9160032.png" , Cric wc - Cric WC Direct
 https://vkvsd232.mycdn.me/hls/6671563229740.m3u8/sig/axc-U-w13es/srcIp/103.26.10.33/urls/185.226.52.64/expires/1719522417875/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7439927552812/id/6671563229740/video.m3u8?p
@@ -77,13 +76,13 @@ https://allinonereborn.in/jiobe143.m3u8?id=873
 https://allinonereborn.in/jiobe143.m3u8?id=809
 
 
-#EXTINF:-1 tvg-id="AstroSupersport4"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png",group-title="COPA AMERICA",Copa 3
+#EXTINF:-1 tvg-id="AstroSupersport4"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png", Copa 3
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kf6+hDwIx8xSPv2CcpLkDg", "kid":"efQChzCsypq4sA8mFY3bEA" } ], "type":"temporary" } 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd 
 
-#EXTINF:-1 tvg-id="AstroSupersport4" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png"  group-title="COPA AMERICA",Copa 4
+#EXTINF:-1 tvg-id="AstroSupersport4" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" ,Copa 4
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -94,20 +93,19 @@ http://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8 
 
 
-#EXTINF:-1  tvg-id="Premier.Sports.1" tvg-logo="http://linear-poster.astro.com.my/prod/logo/PremierSports.png", group-title="COPA AMERICA",Copa 6
+#EXTINF:-1  tvg-id="Premier.Sports.1" tvg-logo="http://linear-poster.astro.com.my/prod/logo/PremierSports.png",Copa 6
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={"0005b3dba78ae0fe7a9288022d3b3736": "d2827df80dd7e9243ba6b5bbda5dfa82"} 
 https://linear001-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(premiersports1)/manifest_720.mpd 
 
-#EXTINF:-1  tvg-id="Premier.Sports.2" tvg-logo="http://linear-poster.astro.com.my/prod/logo/PremierSports.png", group-title="COPA AMERICA",Copa 7
+#EXTINF:-1  tvg-id="Premier.Sports.2" tvg-logo="http://linear-poster.astro.com.my/prod/logo/PremierSports.png",Copa 7
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={"0005d61a0ac86aca28176591b21ae2d9": "f87ad1430a7a38fd0ac248fc9a8389b1"} 
 https://linear031-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(premiersports2)/manifest_720.mpd
-
 
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94world%20cup%20russia%20world%20cup_3928185.png", Foot4
 https://dai.google.com/linear/hls/event/ARSsLLOjSl2bsGjkQB2UAw/master.m3u8
@@ -136,12 +134,12 @@ http://starshare.live:8080/live/jareer.me ye/jerielnino.me/148090.ts
 #EXTINF:-1 group-title="Live Channels", TNT 4
 http://starshare.live:8080/live/jareer.me ye/jerielnino.me/255259.ts
 
-#EXTINF:-1 group-title="Malayalam", Asianet Movies HD
+#EXTINF:-1 group-title="Live Channels", Asianet Movies HD
 http://livetvbox.live:8080/47djShaqib-_-28EDJ9edn2894dcn928SJ10SZ_29_-_19@zsjwdj2389dn1/dkj28sj@83jSI-__-__sjwej38ds@8edjx39djKX29dh2ixwj2849dsh28dj24/177842
-
 
 #EXTINF:-1 tvg-id="Cric1" tvg-name="Cric 1" group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94cricket%20sport%20vector%20logo%20design_9160032.png" , Xtra1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=78&key
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://mpd-v1.bigcric.site/api/78.mpd
