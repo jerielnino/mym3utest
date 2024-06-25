@@ -15,19 +15,6 @@ https://ardinesh-pc-remote.puspas.com.np/live-tv/pkg/live/nettv-universal/star-s
 #EXTINF:-1 tvg-id="Cric3" tvg-name="Cric 3" group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94cricket%20sport%20vector%20logo%20design_9160032.png" , Cric wc - Astro Cricket
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default.mpd?%7CdrmScheme=clearkey&drmLicense=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
 
-#EXTINF:-1 tvg-id="Cric3" tvg-name="Cric 3" group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94cricket%20sport%20vector%20logo%20design_9160032.png" , Cric wc - Astro Cricket Test
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default.mpd
-
-#EXTINF:-1 tvg-id="1033" group-title="Sports", tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-74232-la6z41u8-v3/imageContent-74232-la6z41u8-m5.png", Sports 18 - 1 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"s3LuCyguK8qtMXAiicszjw","kid":"GS3V8HedWYOjqhgnap+3GQ"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_1852/output/manifest.mpd|cookie:hdntl=exp=1719149901~acl=%2f*~data=hdntl~hmac=136ed501802c401e3878c7a1dbaf5627933c902603b506872719cee128f0dc04
-
 #EXTINF:-1 tvg-id="Cric3" tvg-name="Cric 3" group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94cricket%20sport%20vector%20logo%20design_9160032.png" , Cric wc - Cric WC Direct
 https://vkvsd232.mycdn.me/hls/6671563229740.m3u8/sig/axc-U-w13es/srcIp/103.26.10.33/urls/185.226.52.64/expires/1719522417875/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7439927552812/id/6671563229740/video.m3u8?p
 
