@@ -63,7 +63,7 @@ https://pubads.g.doubleclick.net/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={"79f4028730acca9ab8b00f26158ddb10": "edef8ba979d64acea3c827dcd51d21ed"} 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd?%7CdrmScheme=clearkey&drmLicense=79f4028730acca9ab8b00f26158ddb10:edef8ba979d64acea3c827dcd51d21ed
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
 
 #EXTINF:-1 tvg-id="Copa1" tvg-name="Euro 6" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94world%20cup%20russia%20world%20cup_3928185.png", Copa1
 https://allinonereborn.in/jiobe143.m3u8?id=873
