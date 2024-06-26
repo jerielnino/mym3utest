@@ -59,6 +59,10 @@ https://dai.google.com/linear/hls/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8
 #EXTINF:-1 tvg-id="Euro8" tvg-name="Euro 3" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94world%20cup%20russia%20world%20cup_3928185.png", Euro 8
 https://pubads.g.doubleclick.net/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8
 
+#EXTINF:-1 tvg-id="AstroSupersport4"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png", Testnew
+#EXT-X-SESSION-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,AAAALHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAAwiBDI1MDZI49yVmwY=",KEYID=79f4028730acca9ab8b00f26158ddb10
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
+
 #EXTINF:-1 tvg-id="AstroSupersport4"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png", Test1
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
