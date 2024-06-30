@@ -42,3 +42,18 @@ https://a2uy.short.gy/Toffee-Copa/Zubayer_Op.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.tsports.com/images/mobile_logo/1718881159-LIVE-FOR-ott-120.png" group-title="Zubayer Op",COPA 6
 https://a2uy.short.gy/COPA-T/Zubayer_Op.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tsports.com/images/mobile_logo/1718881159-LIVE-FOR-ott-120.png" group-title="Zubayer Op",Euro test1
+https://daiconnect.com/live/dash/rtbf/tipik-premium-drm-2/.mpd?requestuid=f820e1b7-f5ff-4fde-95bb-55c1d683ce1a
+
+#EXTINF:-1 tvg-logo="https://image.tsports.com/images/mobile_logo/1718881159-LIVE-FOR-ott-120.png" group-title="Zubayer Op",Euro test2
+https://ynzbpull2.nbxhth.cn/live/95717344504921966370.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tsports.com/images/mobile_logo/1718881159-LIVE-FOR-ott-120.png" group-title="Zubayer Op",Euro test3
+https://p7s1-live-001-prod.akamaized.net/45371d5a/t_009/zdf-de-hd/cenc-default.mpd
+
+#EXTINF:-1 tvg-logo="https://image.tsports.com/images/mobile_logo/1718881159-LIVE-FOR-ott-120.png" group-title="Zubayer Op",Euro test4
+https://d1u68oyra9spme.cloudfront.net/master_3.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tsports.com/images/mobile_logo/1718881159-LIVE-FOR-ott-120.png" group-title="Zubayer Op",Euro test5
+https://kora-sa.live/hls/0/stream.m3u8
