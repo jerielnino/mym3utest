@@ -60,3 +60,6 @@ https://kora-sa.live/hls/0/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.tsports.com/images/mobile_logo/1718881159-LIVE-FOR-ott-120.png" group-title="Zubayer Op",Spain vs Georgia
 https://ynzbpull2.nbxhth.cn/live/95717582071638523303.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tsports.com/images/mobile_logo/1718881159-LIVE-FOR-ott-120.png" group-title="Zubayer Op",Spain vs Georgia 2
+https://d1u68oyra9spme.cloudfront.net/master_3.m3u8
