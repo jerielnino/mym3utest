@@ -33,3 +33,12 @@ http://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="COPA AMERICA", Copa 3
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/300100/logo/240x240/mobile_logo_896740001718890173.png" group-title="Zubayer Op",COPA 4
+https://a2uy.short.gy/Toffee-Copa2/Zubayer_Op.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_443788001719685530.png" group-title="Zubayer Op",COPA 5
+https://a2uy.short.gy/Toffee-Copa/Zubayer_Op.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tsports.com/images/mobile_logo/1718881159-LIVE-FOR-ott-120.png" group-title="Zubayer Op",COPA 6
+https://a2uy.short.gy/COPA-T/Zubayer_Op.m3u8
