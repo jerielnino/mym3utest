@@ -124,6 +124,15 @@ https://mpd-v1.bigcric.site/api/463.mpd?%7CdrmScheme=clearkey&drmLicense=https:/
 #EXTINF:-1 tvg-logo="https://image.tsports.com/images/mobile_logo/1718881159-LIVE-FOR-ott-120.png" group-title="Zubayer Op",MINY vs WAF
 https://prod-sports-eng.jiocinema.com/hls/live/2100306/hd_akamai_merged_avc_eng_cricket_m1_070724/master.m3u8
 
+#EXTINF:-1 group-title="Live Channels", TEN1 HD
+https://la.drmlive.au/tp/sliv.php?id=ten1hd
+
+#EXTINF:-1 group-title="Live Channels", TEN2 HD
+https://la.drmlive.au/tp/sliv.php?id=ten1hd
+
+#EXTINF:-1 group-title="Live Channels", TEN3 HD
+https://la.drmlive.au/tp/sliv.php?id=ten1hd
+
 #EXTINF:-1 group-title="Live Channels", TNT 1
 http://starshare.live:8080/live/jareer.me ye/jerielnino.me/23564.ts
 
@@ -135,6 +144,7 @@ http://starshare.live:8080/live/jareer.me ye/jerielnino.me/148090.ts
 
 #EXTINF:-1 group-title="Live Channels", TNT 4
 http://starshare.live:8080/live/jareer.me ye/jerielnino.me/255259.ts
+
 
 #EXTINF:-1 group-title="Live Channels", Asianet Movies HD
 http://livetvbox.live:8080/47djShaqib-_-28EDJ9edn2894dcn928SJ10SZ_29_-_19@zsjwdj2389dn1/dkj28sj@83jSI-__-__sjwej38ds@8edjx39djKX29dh2ixwj2849dsh28dj24/177842
