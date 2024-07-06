@@ -58,6 +58,9 @@ https://d1u68oyra9spme.cloudfront.net/master_3.m3u8
 #EXTINF:-1 tvg-logo="https://image.tsports.com/images/mobile_logo/1718881159-LIVE-FOR-ott-120.png" group-title="Zubayer Op",Euro test5
 https://kora-sa.live/hls/0/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://image.tsports.com/images/mobile_logo/1718881159-LIVE-FOR-ott-120.png" group-title="Zubayer Op",MINY vs WAF
+https://prod-sports-eng.jiocinema.com/hls/live/2100306/hd_akamai_merged_avc_eng_cricket_m1_070724/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://image.tsports.com/images/mobile_logo/1718881159-LIVE-FOR-ott-120.png" group-title="Zubayer Op",Sony Ten 1 HD
 https://allinonereborn.in/jiobe.m3u8/?id=369
 
