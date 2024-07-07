@@ -94,11 +94,8 @@ https://dai.google.com/linear/hls/event/SU7iSpwoS3yf6HkUne_Vhg/master.m3u8
 https://dai.google.com/linear/hls/event/FWf8sA8dTwCRjczTV9uy-A/master.m3u8
 
 #EXTINF:-1  tvg-id="Premier.Sports.1" tvg-logo="https://i.imgur.com/E5jjKHI.png",Star Sports 1 HD
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key={"67751730788a5e54a6633dd597ab025a": "58722ed7aa3d7aa051e91509306b2326"} 
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
-https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/Ambani-Mere-Lode-Pe-Vo-B-Sone-Ka.mpd
+https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/Ambani-Mere-Lode-Pe-Vo-B-Sone-Ka.mpd%7CdrmScheme=clearkey&drmLicense=67751730788a5e54a6633dd597ab025a:58722ed7aa3d7aa051e91509306b2326
 
 #EXTINF:-1 tvg-id="AstroSupersport4"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png", Testnew
 #EXT-X-SESSION-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,AAAALHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAAwiBDI1MDZI49yVmwY=",KEYID=79f4028730acca9ab8b00f26158ddb10
