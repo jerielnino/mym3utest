@@ -1,5 +1,12 @@
 #EXTM3U
 
+#EXTINF:-1  tvg-id="Premier.Sports.1" tvg-logo="http://linear-poster.astro.com.my/prod/logo/PremierSports.png",SS1 Test2
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"k":"58722ed7aa3d7aa051e91509306b2326","kid":"67751730788a5e54a6633dd597ab025a"}],"type":"temporary"}
+https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/Ambani-Mere-Lode-Pe-Vo-B-Sone-Ka.mpd
+
 #EXTINF:-1  tvg-id="Premier.Sports.1" tvg-logo="http://linear-poster.astro.com.my/prod/logo/PremierSports.png",SS1 Test
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
