@@ -76,6 +76,14 @@ https://linear.stvacdn.spectrum.com/LIVE/5239/bpk-tv/00700/drm/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
 
+#EXTINF:-1  tvg-id="Premier.Sports.1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png",History Channel
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"bd2dd7cb71a95505bec83df72ebd1eb7": "1254dc55ef4ef72243fa6260ff9d710a"} 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_565/output/Ambani-Mere-Lode-Pe-Vo-B-Sone-Ka.mpd
+
 #EXTINF:-1 tvg-id="Euro1" tvg-name="Euro 1" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94world%20cup%20russia%20world%20cup_3928185.png", Euro 1 English
 https://dai.google.com/linear/hls/event/5qTBYna8R8SzYpzFGIngag/master.m3u8
 
