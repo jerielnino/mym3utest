@@ -52,7 +52,7 @@ https://la.drmlive.au/tp/sliv.php?id=ten5hd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://jiolivestreaming.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/output/index.mpd
 
-#EXTINF:-1  tvg-id="Premier.Sports.1" tvg-logo="https://i.ibb.co/NmVCXhz/IMG-20230610-135938.jpg",Astro Cricket HD
+#EXTINF:-1  tvg-id="Premier.Sports.1" tvg-logo="https://i.imgur.com/miyMp5p.png",Astro Cricket HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
