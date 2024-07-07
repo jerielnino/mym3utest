@@ -22,7 +22,7 @@ https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_251/output/Ambani
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={"978b48d9ba635fb286a4da0c4e39aa0f": "0fc20665f5bacfe852a2f66ab1b4fa6a"} 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_413/output/Ambani-Mere-Lode-Pe-Vo-B-Sone-Ka.mpd
+https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_413/output/Ambani-Mere-Lode-Pe-Vo-B-Sone-Ka.mpd
 
 #EXTINF:-1  tvg-id="Premier.Sports.1" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94cricket%20sport%20vector%20logo%20design_9160032.png",Star Sports Select 2 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -30,7 +30,7 @@ https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_413/output/Ambani
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={"11b722e49e405ebbaffa397f712111be": "a7b9c6b4376d850d452f1802402fb2ba"} 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_729/output/Ambani-Mere-Lode-Pe-Vo-B-Sone-Ka.mpd
+https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_729/output/Ambani-Mere-Lode-Pe-Vo-B-Sone-Ka.mpd
 
 #EXTINF:-1 group-title="Live Channels", TEN1 HD
 https://la.drmlive.au/tp/sliv.php?id=ten1hd
