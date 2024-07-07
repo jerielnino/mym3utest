@@ -5,6 +5,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"k":"58722ed7aa3d7aa051e91509306b2326","kid":"67751730788a5e54a6633dd597ab025a"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/Ambani-Mere-Lode-Pe-Vo-B-Sone-Ka.mpd
 
 #EXTINF:-1  tvg-id="Premier.Sports.1" tvg-logo="http://linear-poster.astro.com.my/prod/logo/PremierSports.png",SS1 Test
@@ -12,9 +13,11 @@ https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/Ambani
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={"67751730788a5e54a6633dd597ab025a": "58722ed7aa3d7aa051e91509306b2326"} 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/Ambani-Mere-Lode-Pe-Vo-B-Sone-Ka.mpd
 
 #EXTINF:-1 tvg-id="Cric3" tvg-name="Cric 3" group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94cricket%20sport%20vector%20logo%20design_9160032.png" , Star sports 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/Ambani-Mere-Lode-Pe-Vo-B-Sone-Ka.mpd?%7CdrmScheme=clearkey&drmLicense=67751730788a5e54a6633dd597ab025a:58722ed7aa3d7aa051e91509306b2326
 
 #EXTINF:-1 tvg-id="Cric1" tvg-name="Cric 1" group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94cricket%20sport%20vector%20logo%20design_9160032.png" , Cric wc - Star Sports 1
