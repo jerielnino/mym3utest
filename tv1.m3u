@@ -44,7 +44,7 @@ https://la.drmlive.au/tp/sliv.php?id=ten3hd
 #EXTINF:-1 group-title="Live Channels" tvg-logo="https://i.imgur.com/40BbQUd.png", TEN5 HD
 https://la.drmlive.au/tp/sliv.php?id=ten5hd
 
-#EXTINF:-1  tvg-id="Premier.Sports.1" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94cricket%20sport%20vector%20logo%20design_9160032.png",Sports 18 1 HD
+#EXTINF:-1  tvg-id="Premier.Sports.1" tvg-logo="https://i.ibb.co/NmVCXhz/IMG-20230610-135938.jpg",Sports 18 1 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
