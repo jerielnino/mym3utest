@@ -76,6 +76,19 @@ https://linear.stvacdn.spectrum.com/LIVE/5239/bpk-tv/00700/drm/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
 
+#EXTINF:-1  tvg-id="Premier.Sports.1" tvg-logo="https://i.imgur.com/irWZ3TG.png",Willow HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.license_type=com.apple.streamingkeydelivery
+#KODIPROP:inputstream.adaptive.license_key={"59ed8dc9d4a48857ef8e5865919496cc": "0d3680bd8b349deda8b7fdd1da71b7f8"} 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://zerotoone.com.br/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https://dfwlive-v1-c1p3-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(WILLHD-3291.dfw.1080)/index.m3u8
+
+#EXTINF:-1  tvg-id="Premier.Sports.1" tvg-logo="https://i.imgur.com/irWZ3TG.png",Willow HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.license_type=com.apple.streamingkeydelivery
+#KODIPROP:inputstream.adaptive.license_key={"59ed8dc9d4a48857ef8e5865919496cc": "0d3680bd8b349deda8b7fdd1da71b7f8"} 
+https://zerotoone.com.br/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https://dfwlive-v1-c1p3-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(WILLHD-3291.dfw.1080)/index.m3u8
+
 #EXTINF:-1 tvg-id="Euro1" tvg-name="Euro 1" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94world%20cup%20russia%20world%20cup_3928185.png", Euro 1 English
 https://dai.google.com/linear/hls/event/5qTBYna8R8SzYpzFGIngag/master.m3u8
 
