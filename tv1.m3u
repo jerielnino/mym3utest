@@ -44,6 +44,15 @@ https://la.drmlive.au/tp/sliv.php?id=ten3hd
 #EXTINF:-1 group-title="Live Channels", TEN5 HD
 https://la.drmlive.au/tp/sliv.php?id=ten5hd
 
+#EXTINF:-1  tvg-id="Premier.Sports.1" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94cricket%20sport%20vector%20logo%20design_9160032.png",Sports 18 1 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={"d86185f50f5952589c280167ee8e45c5": "6bff81346539e4bcc9abdb351f1c855e"} 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_729/output/Ambani-Mere-Lode-Pe-Vo-B-Sone-Ka.mpd
+https://jiolivestreaming.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/output/index.mpd
+
 #EXTINF:-1 tvg-id="Euro1" tvg-name="Euro 1" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94world%20cup%20russia%20world%20cup_3928185.png", Euro 1 English
 https://dai.google.com/linear/hls/event/5qTBYna8R8SzYpzFGIngag/master.m3u8
 
