@@ -1,0 +1,172 @@
+#EXTM3U
+
+#EXTINF:-1  tvg-id="Premier.Sports.1" tvg-logo="http://linear-poster.astro.com.my/prod/logo/PremierSports.png",Star Sports 1 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={"67751730788a5e54a6633dd597ab025a": "58722ed7aa3d7aa051e91509306b2326"} 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/Ambani-Mere-Lode-Pe-Vo-B-Sone-Ka.mpd
+
+#EXTINF:-1 tvg-id="Cric3" tvg-name="Cric 3" group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94cricket%20sport%20vector%20logo%20design_9160032.png" , Star sports 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/Ambani-Mere-Lode-Pe-Vo-B-Sone-Ka.mpd?%7CdrmScheme=clearkey&drmLicense=67751730788a5e54a6633dd597ab025a:58722ed7aa3d7aa051e91509306b2326
+
+#EXTINF:-1 tvg-id="Cric1" tvg-name="Cric 1" group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94cricket%20sport%20vector%20logo%20design_9160032.png" , Cric wc - Star Sports 1
+https://mpd-v1.bigcric.site/api/78.mpd?%7CdrmScheme=clearkey&drmLicense=https://www.bigcric.site/bigcchubchat/keys.php?show_id=78#Intent;package=com.genuine.leone;end
+
+#EXTINF:-1 tvg-id="Cric1" tvg-name="Cric 1" group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94cricket%20sport%20vector%20logo%20design_9160032.png" , Cric wc - Star Sports 1 Alt
+https://ardinesh-pc-remote.puspas.com.np/live-tv/pkg/live/nettv-universal/star-sports-1-hd/index.ts
+
+#EXTINF:-1 tvg-id="Cric2" tvg-name="Cric 2" group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94cricket%20sport%20vector%20logo%20design_9160032.png" , Cric wc - Star Sports 2
+https://mpd-v1.bigcric.site/api/235.mpd?%7CdrmScheme=clearkey&drmLicense=https://www.bigcric.site/bigcchubchat/keys.php?show_id=235#Intent;package=com.genuine.leone;end
+
+#EXTINF:-1 tvg-id="Cric1" tvg-name="Cric 1" group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94cricket%20sport%20vector%20logo%20design_9160032.png" , Cric wc - Star Sports 2 Alt
+https://ardinesh-pc-remote.puspas.com.np/live-tv/pkg/live/nettv-universal/star-sports-2-hd/index.ts
+
+#EXTINF:-1 tvg-id="Cric3" tvg-name="Cric 3" group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94cricket%20sport%20vector%20logo%20design_9160032.png" , Cric wc - Astro Cricket
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default.mpd?%7CdrmScheme=clearkey&drmLicense=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
+
+#EXTINF:-1 tvg-id="Cric3" tvg-name="Cric 3" group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94cricket%20sport%20vector%20logo%20design_9160032.png" , Cric wc - Cric WC Direct
+https://vkvsd232.mycdn.me/hls/6671563229740.m3u8/sig/axc-U-w13es/srcIp/103.26.10.33/urls/185.226.52.64/expires/1719522417875/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7439927552812/id/6671563229740/video.m3u8?p
+
+#EXTINF:-1 tvg-id="Cric4" tvg-name="Cric 4" group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94cricket%20sport%20vector%20logo%20design_9160032.png" , Cric wc - Amazon Prime
+https://aba5sdmaaaaaaaamkycwliah6buj4.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tgcrfjcgia/out/v1/7296f026409c4e9ba8844a238628f9ad/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=d1badeadb11f16bbd0ad7d47914d939e:bd52d185d3537c4c1759db6d66f90f31
+
+#EXTINF:-1 tvg-id="Cric5" tvg-name="Cric 5" group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94cricket%20sport%20vector%20logo%20design_9160032.png" , Cric wc - Bangla channel
+https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=7rxu6flrJEH18id_ZCAwOg&expires=1717900919&user=ff39d05fef0749028389f28943b73363#Intent;package=com.genuine.leone;end
+
+#EXTINF:-1 tvg-id="Cric6" tvg-name="Cric 6" group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94cricket%20sport%20vector%20logo%20design_9160032.png" , Cric wc - Willow Cricket
+https://linear-novi.stvacdn.spectrum.com/LIVE/5248/bpk-tv/10364/drm/manifest.mpd?%7CdrmScheme=clearkey&drmLicense=475d7932b5f352bb92016b75b60c58fa:ea37faa137ae8f644105c4fcc189a35f
+
+#EXTINF:-1 tvg-id="Cric7" tvg-name="Cric 7" group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94cricket%20sport%20vector%20logo%20design_9160032.png" , Cric wc - Hotstar Test
+https://live11p-ssai-akt-mum.cdn.hotstar.com/hls/live/2003693/inallow-icct20wc-2024/eng/1540029944/15mindvrm01ec5ffcc29d9848fb853cdeec0ff2751508june2024/master_ap_1080_6.m3u8?|cookie=hdntl=exp=1717916650~acl=%2f*~id=0e6ece92e0ac21316092f423cfe138c8~data=hdntl~hmac=6588f86105ed0492a69506edbbfc1954d623a09d68cecc67c6523d2f0864c174
+
+#EXTINF:-1 tvg-id="Cric8" tvg-name="Cric 8" group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94cricket%20sport%20vector%20logo%20design_9160032.png" , Cric 8
+https://prod-sports-eng.jiocinema.com/hls/live/2100310/hd_akamai_iosmob_avc_eng_indsawomens_m1_190624/master.m3u8
+
+#EXTINF:-1 tvg-id="Euro1" tvg-name="Euro 1" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94world%20cup%20russia%20world%20cup_3928185.png", Euro 1 English
+https://dai.google.com/linear/hls/event/5qTBYna8R8SzYpzFGIngag/master.m3u8
+
+#EXTINF:-1 tvg-id="Euro2" tvg-name="Euro 2" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94world%20cup%20russia%20world%20cup_3928185.png", Euro 2 English
+https://dai.google.com/linear/hls/event/SU7iSpwoS3yf6HkUne_Vhg/master.m3u8
+
+#EXTINF:-1 tvg-id="Euro3" tvg-name="Euro 3" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94world%20cup%20russia%20world%20cup_3928185.png", Euro 3 English
+https://dai.google.com/linear/hls/event/FWf8sA8dTwCRjczTV9uy-A/master.m3u8
+
+#EXTINF:-1 tvg-id="Euro4" tvg-name="Euro 1" group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94world%20cup%20russia%20world%20cup_3928185.png", Euro 4
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+https://pubads.g.doubleclick.net/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8
+
+#EXTINF:-1 tvg-id="Euro5" tvg-name="Euro 2" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94world%20cup%20russia%20world%20cup_3928185.png", Euro 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://dai.google.com/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8
+
+#EXTINF:-1 tvg-id="Euro6" tvg-name="Euro 4" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94world%20cup%20russia%20world%20cup_3928185.png", Euro 6
+https://dai.google.com/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8
+
+#EXTINF:-1 tvg-id="Euro7" tvg-name="Euro 5" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94world%20cup%20russia%20world%20cup_3928185.png", Euro 7
+https://dai.google.com/linear/hls/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8
+
+#EXTINF:-1 tvg-id="Euro8" tvg-name="Euro 3" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94world%20cup%20russia%20world%20cup_3928185.png", Euro 8
+https://pubads.g.doubleclick.net/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8
+
+#EXTINF:-1 tvg-id="AstroSupersport4"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png", Testnew
+#EXT-X-SESSION-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,AAAALHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAAwiBDI1MDZI49yVmwY=",KEYID=79f4028730acca9ab8b00f26158ddb10
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
+
+#EXTINF:-1 tvg-id="AstroSupersport4"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png", Test1
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "k":"edef8ba979d64acea3c827dcd51d21ed", "kid":"79f4028730acca9ab8b00f26158ddb10" } ] } 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
+
+#EXTINF:-1 tvg-id="Copa1" tvg-name="Euro 6" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94world%20cup%20russia%20world%20cup_3928185.png", Copa1
+https://allinonereborn.in/jiobe143.m3u8?id=873
+
+#EXTINF:-1 tvg-id="Copa2" tvg-name="Euro 6" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94world%20cup%20russia%20world%20cup_3928185.png", Copa2
+https://allinonereborn.in/jiobe143.m3u8?id=809
+
+#EXTINF:-1 tvg-id="AstroSupersport4"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png", Copa 3
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kf6+hDwIx8xSPv2CcpLkDg", "kid":"efQChzCsypq4sA8mFY3bEA" } ], "type":"temporary" } 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd 
+
+#EXTINF:-1 tvg-id="AstroSupersport4" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" ,Copa 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"QfI0+4hZCvOw0iQRGmG/cQ","kid":"jx2jmTJSR+ymrN17r7lfog"}],"type":"temporary"} 
+http://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd 
+
+#EXTINF:-1 tvg-logo="" group-title="COPA AMERICA", Copa 5
+https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8 
+
+
+#EXTINF:-1  tvg-id="Premier.Sports.1" tvg-logo="http://linear-poster.astro.com.my/prod/logo/PremierSports.png",Copa 6
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={"0005b3dba78ae0fe7a9288022d3b3736": "d2827df80dd7e9243ba6b5bbda5dfa82"} 
+https://linear001-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(premiersports1)/manifest_720.mpd 
+
+#EXTINF:-1  tvg-id="Premier.Sports.2" tvg-logo="http://linear-poster.astro.com.my/prod/logo/PremierSports.png",Copa 7
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={"0005d61a0ac86aca28176591b21ae2d9": "f87ad1430a7a38fd0ac248fc9a8389b1"} 
+https://linear031-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(premiersports2)/manifest_720.mpd
+
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94world%20cup%20russia%20world%20cup_3928185.png", Foot4
+https://dai.google.com/linear/hls/event/ARSsLLOjSl2bsGjkQB2UAw/master.m3u8
+
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94world%20cup%20russia%20world%20cup_3928185.png", Foot5
+https://dai.google.com/linear/hls/event/DX_lMgd6R42vY1wSWgXg9A/master.m3u8
+
+#EXTINF:-1 group-title="Live Sports", Home Cam
+rtsp://jeri7758:Jeri7758@192.168.20.4:554/stream1
+
+#EXTINF:-1 tvg-id="SSSelect1" tvg-name="SS Select 1" group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94cricket%20sport%20vector%20logo%20design_9160032.png" , Cric wc2 - Star Sports Select1 HD
+https://mpd-v1.bigcric.site/api/246.mpd?%7CdrmScheme=clearkey&drmLicense=https://www.bigcric.site/bigcchubchat/keys.php?show_id=246#Intent;package=com.genuine.leone;end
+
+#EXTINF:-1 tvg-id="SSSelect2" tvg-name="SS Select 2" group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94cricket%20sport%20vector%20logo%20design_9160032.png" , Cric wc2 - Star Sports Select2 HD
+https://mpd-v1.bigcric.site/api/463.mpd?%7CdrmScheme=clearkey&drmLicense=https://www.bigcric.site/bigcchubchat/keys.php?show_id=463#Intent;package=com.genuine.leone;end
+
+#EXTINF:-1 tvg-logo="https://image.tsports.com/images/mobile_logo/1718881159-LIVE-FOR-ott-120.png" group-title="Zubayer Op",MINY vs WAF
+https://prod-sports-eng.jiocinema.com/hls/live/2100306/hd_akamai_merged_avc_eng_cricket_m1_070724/master.m3u8
+
+#EXTINF:-1 group-title="Live Channels", TEN1 HD
+https://la.drmlive.au/tp/sliv.php?id=ten1hd
+
+#EXTINF:-1 group-title="Live Channels", TEN2 HD
+https://la.drmlive.au/tp/sliv.php?id=ten2hd
+
+#EXTINF:-1 group-title="Live Channels", TEN3 HD
+https://la.drmlive.au/tp/sliv.php?id=ten3hd
+
+#EXTINF:-1 group-title="Live Channels", TEN5 HD
+https://la.drmlive.au/tp/sliv.php?id=ten5hd
+
+#EXTINF:-1 group-title="Live Channels", TNT 1
+http://starshare.live:8080/live/jareer.me ye/jerielnino.me/23564.ts
+
+#EXTINF:-1 group-title="Live Channels", TNT 2
+http://starshare.live:8080/live/jareer.me ye/jerielnino.me/23565.ts
+
+#EXTINF:-1 group-title="Live Channels", TNT 3
+http://starshare.live:8080/live/jareer.me ye/jerielnino.me/148090.ts
+
+#EXTINF:-1 group-title="Live Channels", TNT 4
+http://starshare.live:8080/live/jareer.me ye/jerielnino.me/255259.ts
+
+
+#EXTINF:-1 group-title="Live Channels", Asianet Movies HD
+http://livetvbox.live:8080/47djShaqib-_-28EDJ9edn2894dcn928SJ10SZ_29_-_19@zsjwdj2389dn1/dkj28sj@83jSI-__-__sjwej38ds@8edjx39djKX29dh2ixwj2849dsh28dj24/177842
+
+#EXTINF:-1 tvg-id="Cric1" tvg-name="Cric 1" group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94cricket%20sport%20vector%20logo%20design_9160032.png" , Xtra1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=78&key
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://mpd-v1.bigcric.site/api/78.mpd
