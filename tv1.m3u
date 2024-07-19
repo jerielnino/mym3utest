@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1  tvg-id="Premier.Sports.1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/NBCUniversal_Peacock_Logo.svg",Peacock TV
+#EXTINF:-1  tvg-id="Premier.Sports.1" tvg-logo="https://assets-prd.ignimgs.com/2022/09/22/service-peacock-1663819589220.jpg?width=300&auto=webp",Peacock TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
