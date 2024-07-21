@@ -85,6 +85,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://linear-novi.stvacdn.spectrum.com/LIVE/5248/bpk-tv/10364/drm/manifest.mpd
 
+#EXTINF:-1  tvg-id="Premier.Sports.1" tvg-logo="https://i.imgur.com/irWZ3TG.png",LPL
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://dai.fancode.com/primary/103789_english_hls_4502adfreeta-no/index.m3u8
+
 #EXTINF:-1 group-title="Live Sports", Home Cam
 rtsp://jeri7758:Jeri7758@192.168.20.4:554/stream1
 
