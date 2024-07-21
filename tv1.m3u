@@ -28,9 +28,10 @@ https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_251/output/Ambani
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key={"978b48d9ba635fb286a4da0c4e39aa0f": "0fc20665f5bacfe852a2f66ab1b4fa6a"} 
+#KODIPROP:inputstream.adaptive.license_key={"fa56c8a659c5561b962f45143f4776bc": "f23e365b7fa71ef236f1cf09fb1f0628"} 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_413/output/Ambani-Mere-Lode-Pe-Vo-B-Sone-Ka.mpd
+https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_413/output/thecricsters.mpd
+
 
 #EXTINF:-1  tvg-id="Premier.Sports.1" tvg-logo="https://i.imgur.com/JA3nvTM.png",Star Sports Select 2 HD (Temp)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
