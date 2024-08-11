@@ -8,38 +8,6 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://f6hmx3jswd83sq.paltrypaste.com/hls/5e51755ca60b9c30-3bb4bcba71d2a5a16f8cbe608a0a0fcfc4bd775c58c8b11c4967fe5080d25527/live.m3u8
 
-#EXTINF:-1  tvg-id="Premier.Sports.1" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3845.png",LFC TV 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"002046c9a49b9ab1cdb6616bec5d26c3": "d2f92f6b7edc9a1a05d393ba0c20ef9e"} 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://ayoongee7een3e.paltrypaste.com/hls/4a3c7cbbc8028eb8-695feb75e382b8433e25288f1b4d558da1b5925fbf9e02f3d81e5e069b032d91/live.m3u8
-
-#EXTINF:-1  tvg-id="Premier.Sports.1" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3845.png",LFC TV 3
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"002046c9a49b9ab1cdb6616bec5d26c3": "d2f92f6b7edc9a1a05d393ba0c20ef9e"} 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://7f6335dfeb2a39.paltrypaste.com/hls/7c48d4779a36b6a6-d198c0263df1c493ed88fc21dc8c8f9c4fb4b5fdc851dfefeb0daebd342eccfb/live.m3u8
-
-#EXTINF:-1  tvg-id="Premier.Sports.1" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3845.png",LFC TV 4
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"002046c9a49b9ab1cdb6616bec5d26c3": "d2f92f6b7edc9a1a05d393ba0c20ef9e"} 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://njbzae6tkqgv84y95xhcw2.cdnwitness.net:8443/hls/61i6q3jvgok.m3u8?s=EFR5rvVvV1jbn-jVKMFfhg&e=1723394494
-
-#EXTINF:-1  tvg-id="Premier.Sports.1" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3845.png",LFC TV 5
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"002046c9a49b9ab1cdb6616bec5d26c3": "d2f92f6b7edc9a1a05d393ba0c20ef9e"} 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://qjbdum87ql.azureedge.net/live//playlist.m3u8
-
 #EXTINF:-1  tvg-id="Premier.Sports.1" tvg-logo="https://assets-prd.ignimgs.com/2022/09/22/service-peacock-1663819589220.jpg?width=300&auto=webp",Peacock TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
