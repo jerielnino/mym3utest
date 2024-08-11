@@ -6,7 +6,7 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"002046c9a49b9ab1cdb6616bec5d26c3": "d2f92f6b7edc9a1a05d393ba0c20ef9e"} 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://f6hmx3jswd83sq.paltrypaste.com/hls/5e51755ca60b9c30-3bb4bcba71d2a5a16f8cbe608a0a0fcfc4bd775c58c8b11c4967fe5080d25527/live.m3u8
+https://lebo.huminbird.cn/live/ballbar_21960.m3u8
 
 #EXTINF:-1  tvg-id="Premier.Sports.1" tvg-logo="https://assets-prd.ignimgs.com/2022/09/22/service-peacock-1663819589220.jpg?width=300&auto=webp",Peacock TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
