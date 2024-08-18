@@ -48,6 +48,10 @@ https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/o
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
 
+#EXTINF:-1 tvg-id="tsn5.ca" tvg-name="Premier Sport 1" tvg-logo="https://sport-onthebox.com/wp-content/uploads/2019/08/Premier-Sports-1.png" group-title="SPORT", Premier Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+https://topembed.mizhls.ru/lb/premier1uk/playlist.m3u8
 
 #EXTINF:-1  tvg-id="Premier.Sports.1" tvg-logo="https://i.imgur.com/E5jjKHI.png",Star Sports 1 HD (Temp)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
