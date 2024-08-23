@@ -53,13 +53,11 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/o
 #EXTVLCOPT:http-referrer=https://topembed.pw/
 https://topembed.mizhls.ru/lb/premier1uk/playlist.m3u8
 
-#EXTINF:-1  tvg-id="Premier.Sports.1" tvg-logo="https://i.imgur.com/E5jjKHI.png",Star Sports 1 HD (Temp)
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key={"5e46166b25865caf96624b09b58484b3": "aa1a4d59ea12448b018ae901a5318cd7"} 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/xxx.mpd
+#EXTINF:-1 tvg-id="246" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG" group-title="Sports",Star Sports Select 1 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://drmlive.in/tataplay/tpck.php?id=246
+#EXTVLCOPT:http-user-agent=third-party
+https://jerielnino.vercel.app/246.mpd|X-Forwarded-For=59.178.72.184
 
 #EXTINF:-1  tvg-id="Premier.Sports.1" tvg-logo="https://i.imgur.com/5En7pOI.png",Star Sports 2 HD (Temp)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
