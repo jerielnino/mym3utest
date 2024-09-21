@@ -20,6 +20,10 @@ https://dai.google.com/linear/hls/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=st=1726913312~exp=1726913612~acl=*~id=3547e83a-928f-4ccc-9455-35cba7a54900~hmac=387261e06a29b6824f226ac205d58d50ad97daacee46473308194a1cec247140&originpath=/linear/hls/pb/event/NVkw1vF1SImKE2QAWVwfBA/stream/7fa16728-6c49-4385-b6c7-faf2a27f0e4e:TPE/master.m3u8
 
+#EXTINF:-1 tvg-id="Cric1" tvg-name="Cric 1" group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94cricket%20sport%20vector%20logo%20design_9160032.png" , Ind Vs Ban Test
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://prod-sports-hin-gm.jiocinema.com/hls/live/2100323/hd_akamai_androidmob_avc_hin_indvsban_210924/master.m3u8
+
 #EXTINF:-1 tvg-id="Premier.Sports.1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png", Match1
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
