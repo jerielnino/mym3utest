@@ -1,5 +1,25 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Euro1" tvg-name="Euro 1" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94world%20cup%20russia%20world%20cup_3928185.png", Carabao 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://dai.fancode.com/primary/111454_english_hls_5641ta-no/index.m3u8
+
+#EXTINF:-1 tvg-id="Euro1" tvg-name="Euro 1" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94world%20cup%20russia%20world%20cup_3928185.png", Carabao 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://dai.fancode.com/primary/111453_english_hls_2398ta-no/index.m3u8
+
+#EXTINF:-1 tvg-id="Euro1" tvg-name="Euro 1" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94world%20cup%20russia%20world%20cup_3928185.png", Carabao 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://dai.fancode.com/primary/111452_english_hls_7591ta-no/index.m3u8
+
+#EXTINF:-1 tvg-id="Euro1" tvg-name="Euro 1" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94world%20cup%20russia%20world%20cup_3928185.png", Carabao 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://dai.fancode.com/primary/111456_english_hls_6158ta-no/index.m3u8
+
+#EXTINF:-1 tvg-id="Euro1" tvg-name="Euro 1" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94world%20cup%20russia%20world%20cup_3928185.png", Carabao 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://dai.fancode.com/primary/111455_english_hls_651ta-no/index.m3u8
+
 #EXTINF:-1 tvg-id="Euro1" tvg-name="Euro 1" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94world%20cup%20russia%20world%20cup_3928185.png", Bar vs Young boys new
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://a2uy.short.gy/FCB-V-YB/TG@ZubayerOp_Official.m3u8
