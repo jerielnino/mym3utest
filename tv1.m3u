@@ -34,11 +34,11 @@ https://dai.google.com/linear/hls/event/62ktb4bPT2C-Wpcqcd3YMA/master.m3u8
 
 #EXTINF:-1 tvg-id="Euro1" tvg-name="Euro 1" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94world%20cup%20russia%20world%20cup_3928185.png", UEFA CL 1 (Use External player)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://dai.google.com/ssai/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8
+https://sony.cricsterspkl.io/event.php/hls/live/2022319/DAI15ME-V3/master_mdh.m3u8?hdnea=exp=1730855329~acl=*~id=1556784483112233~hmac=00b994788b3026e1dcf8e2f00cba86cc7f1d394c3ca7a0c44d9d6da869d2ef46
 
 #EXTINF:-1 tvg-id="Euro1" tvg-name="Euro 1" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94world%20cup%20russia%20world%20cup_3928185.png", UEFA CL 2 (Use External player)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://dai.google.com/ssai/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8
+https://dai.google.com/ssai/event/FgOj57oiSEyp5FLaDUhRWA/master.m3u8
 
 #EXTINF:-1 tvg-id="Euro1" tvg-name="Euro 1" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94world%20cup%20russia%20world%20cup_3928185.png", UEFA CL 3 (Use External player)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
