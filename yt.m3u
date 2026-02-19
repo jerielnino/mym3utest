@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="ABC News" tvg-id="ABCNEWS.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-news-light-us.png?raw=true" group-title="News",ABC News
-http://192.168.20.4:6095/stream?url=https://www.youtube.com/@abcnews/live
-#EXTINF:-1 tvg-name="GB News" tvg-id="GB.News.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/gb-news-uk.png?raw=true" group-title="News",GB News
-http://192.168.20.4:6095/stream?url=https://www.youtube.com/@GBNewsOnline/live
+#EXTINF:-1 tvg-name="Alafasy TV" tvg-id="Alafasy TV" tvg-logo="https://yt3.googleusercontent.com/ZI3AaaDaAt3nBKbw5wytoZ3vsQJRSuAvb-a3kYk7tnBb8GlettafQO3zE_F_o4TKm0HJUDLyXQ=s160-c-k-c0x00ffffff-no-rj" group-title="Islamic",Alafasy TV
+http://192.168.20.4:6095/stream?url=https://www.youtube.com/@alafasy/live
+#EXTINF:-1 tvg-name="Istabraq TV" tvg-id="Istabraq TV" tvg-logo="https://yt3.googleusercontent.com/w8DNmQ2iHQLPFR3K1EnFm38uLzi6jz56hIzElpqyUVavi9sBjU-O0t927UuWOZzwXW_rDif3qQ=s160-c-k-c0x00ffffff-no-rj" group-title="Islamic",Istabraq TV
+http://192.168.20.4:6095/stream?url=https://www.youtube.com/@IstabraqTV/live
