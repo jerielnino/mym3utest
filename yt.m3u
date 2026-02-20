@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Alafasy TV" tvg-id="Alafasy TV" tvg-logo="https://yt3.googleusercontent.com/ZI3AaaDaAt3nBKbw5wytoZ3vsQJRSuAvb-a3kYk7tnBb8GlettafQO3zE_F_o4TKm0HJUDLyXQ=s160-c-k-c0x00ffffff-no-rj" group-title="Islamic",Alafasy TV
-http://192.168.20.4:6095/stream?url=https://www.youtube.com/@alafasy/live
+http://192.168.20.50:6095/stream?url=https://www.youtube.com/@alafasy/live
 #EXTINF:-1 tvg-name="Istabraq TV" tvg-id="Istabraq TV" tvg-logo="https://yt3.googleusercontent.com/w8DNmQ2iHQLPFR3K1EnFm38uLzi6jz56hIzElpqyUVavi9sBjU-O0t927UuWOZzwXW_rDif3qQ=s160-c-k-c0x00ffffff-no-rj" group-title="Islamic",Istabraq TV
-http://192.168.20.4:6095/stream?url=https://www.youtube.com/@IstabraqTV/live
+http://192.168.20.50:6095/stream?url=https://www.youtube.com/@IstabraqTV/live
 #EXTINF:-1 tvg-name="AlQalam-Media" tvg-id="AlQalam-Media" tvg-logo="https://yt3.googleusercontent.com/qxV8y9ZewlRQI5BJnNte5J45S_mt-FAPgy8E3dxZhm3hU2QuKUFSwR2DsaHhQSLn1cCVNB8rMg=s160-c-k-c0x00ffffff-no-rj" group-title="Islamic",AlQalam-Media
-http://192.168.20.4:6095/stream?url=https://www.youtube.com/@AlQalam-Media-Official
+http://192.168.20.50:6095/stream?url=https://www.youtube.com/@AlQalam-Media-Official
 #EXTINF:-1 tvg-name="talkSPORT" tvg-id="talkSPORT" tvg-logo="https://yt3.googleusercontent.com/i_nrwhCjuhW-XibmYmGBLptarZmwXf5qma5vXgVEVZKR7FkpPvjx4oWt5vUccCBI2WIn3RscRFI=s160-c-k-c0x00ffffff-no-rj" group-title="Sports",talkSPORT
-http://192.168.20.4:6095/stream?url=https://www.youtube.com/@talkSPORT
+http://192.168.20.50:6095/stream?url=https://www.youtube.com/@talkSPORT
 #EXTINF:-1 tvg-name="GOLD Cricket" tvg-id="GOLD Cricket Updated" tvg-logo="https://yt3.googleusercontent.com/Vh9uFoOoGYoFDVYsUjrFzjUegCQq1PI1lwpHR2EcOVbnqQYMqdMGuw81F0HX5XZN-BgZgzWAJA=s160-c-k-c0x00ffffff-no-rj" group-title="Sports",GOLD Cricket Updated
-http://192.168.20.4:6095/stream?url=https://www.youtube.com/live/wjKnaEvwlKw
+http://192.168.20.50:6095/stream?url=https://www.youtube.com/live/wjKnaEvwlKw
 #EXTINF:-1 tvg-name="Tom And Jerry" tvg-id="Tom And Jerry" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOOC91gER0o-LbroGnxnFtw7M-eJHQDIx-BH-vszIE0xPHqi72aY3AIxSq&s=10" group-title="Kids",Tom And Jerry
-http://192.168.20.4:6095/stream?url=https://www.youtube.com/@warnerbrosclassics
+http://192.168.20.50:6095/stream?url=https://www.youtube.com/@warnerbrosclassics
