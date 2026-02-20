@@ -9,3 +9,5 @@ http://192.168.20.4:6095/stream?url=https://www.youtube.com/@AlQalam-Media-Offic
 http://192.168.20.4:6095/stream?url=https://www.youtube.com/@talkSPORT
 #EXTINF:-1 tvg-name="GOLD Cricket" tvg-id="GOLD Cricket Updated" tvg-logo="https://yt3.googleusercontent.com/Vh9uFoOoGYoFDVYsUjrFzjUegCQq1PI1lwpHR2EcOVbnqQYMqdMGuw81F0HX5XZN-BgZgzWAJA=s160-c-k-c0x00ffffff-no-rj" group-title="Sports",GOLD Cricket Updated
 http://192.168.20.4:6095/stream?url=https://www.youtube.com/live/wjKnaEvwlKw
+#EXTINF:-1 tvg-name="Tom And Jerry" tvg-id="Tom And Jerry" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOOC91gER0o-LbroGnxnFtw7M-eJHQDIx-BH-vszIE0xPHqi72aY3AIxSq&s=10" group-title="Kids",Tom And Jerry
+http://192.168.20.4:6095/stream?url=https://www.youtube.com/@warnerbrosclassics
