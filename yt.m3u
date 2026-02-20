@@ -5,8 +5,6 @@ http://192.168.20.4:6095/stream?url=https://www.youtube.com/@alafasy/live
 http://192.168.20.4:6095/stream?url=https://www.youtube.com/@IstabraqTV/live
 #EXTINF:-1 tvg-name="AlQalam-Media" tvg-id="AlQalam-Media" tvg-logo="https://yt3.googleusercontent.com/qxV8y9ZewlRQI5BJnNte5J45S_mt-FAPgy8E3dxZhm3hU2QuKUFSwR2DsaHhQSLn1cCVNB8rMg=s160-c-k-c0x00ffffff-no-rj" group-title="Islamic",AlQalam-Media
 http://192.168.20.4:6095/stream?url=https://www.youtube.com/@AlQalam-Media-Official
-#EXTINF:-1 tvg-name="Football TV" tvg-id="Football TV" tvg-logo="https://yt3.googleusercontent.com/EqPlRhyq29aYCe6KTc0Y4ko7srhkd1WyKAIn1eIM8FlsN56ddCKVPG-WAwqzkDkjkkotdOUdZlk=s160-c-k-c0x00ffffff-no-rj" group-title="Sports",Football TV
-http://192.168.20.4:6095/stream?url=https://www.youtube.com/@VietnamPickleballTV
 #EXTINF:-1 tvg-name="talkSPORT" tvg-id="talkSPORT" tvg-logo="https://yt3.googleusercontent.com/i_nrwhCjuhW-XibmYmGBLptarZmwXf5qma5vXgVEVZKR7FkpPvjx4oWt5vUccCBI2WIn3RscRFI=s160-c-k-c0x00ffffff-no-rj" group-title="Sports",talkSPORT
 http://192.168.20.4:6095/stream?url=https://www.youtube.com/@talkSPORT
 #EXTINF:-1 tvg-name="GOLD Cricket" tvg-id="GOLD Cricket" tvg-logo="https://yt3.googleusercontent.com/Vh9uFoOoGYoFDVYsUjrFzjUegCQq1PI1lwpHR2EcOVbnqQYMqdMGuw81F0HX5XZN-BgZgzWAJA=s160-c-k-c0x00ffffff-no-rj" group-title="Sports",GOLD Cricket
