@@ -1,18 +1,14 @@
 <channels>
     <channel>
         <channel-name>Miracle of Islam</channel-name>
-        <tvg-id>NEWS.dummy.us</tvg-id>
-        <tvg-name>CGTN</tvg-name>
-        <tvg-logo>https://upload.wikimedia.org/wikipedia/commons/4/46/CGTN_Europe_Logo.png</tvg-logo>
-        <group-title>News</group-title>
+        <tvg-logo>https://s1.dmcdn.net/v/YOAeO1e8Zpsg7vkwU/x240</tvg-logo>
+        <group-title>Islamic</group-title>
         <dailymotion-url>https://www.dailymotion.com/video/x9jdz4o</dailymotion-url>
     </channel>
     <channel>
-        <channel-name>The California Lifestyle Channel</channel-name>
-        <tvg-id>Music.Dummy.us</tvg-id>
-        <tvg-name>The California Lifestyle Channel</tvg-name>
-        <tvg-logo>https://static-cdn.jtvnw.net/jtv_user_pictures/d66c8801-3bec-4666-8eb6-aa3728002268-profile_image-600x600.png</tvg-logo>
-        <group-title>Music</group-title>
-        <dailymotion-url>https://www.dailymotion.com/video/x92xycg</dailymotion-url>
+        <channel-name>Liverpool Years 19-20</channel-name>
+        <tvg-logo>https://s1.dmcdn.net/v/YJXg-1e472feBji6i/x240</tvg-logo>
+        <group-title>Sports</group-title>
+        <dailymotion-url>https://www.dailymotion.com/video/x9inwla</dailymotion-url>
     </channel>
 </channels>
