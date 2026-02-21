@@ -1,11 +1,11 @@
 <channels>
     <channel>
-        <channel-name>CGTN Europe News</channel-name>
+        <channel-name>Miracle of Islam</channel-name>
         <tvg-id>NEWS.dummy.us</tvg-id>
         <tvg-name>CGTN</tvg-name>
         <tvg-logo>https://upload.wikimedia.org/wikipedia/commons/4/46/CGTN_Europe_Logo.png</tvg-logo>
         <group-title>News</group-title>
-        <dailymotion-url>https://www.dailymotion.com/video/x8p5u0u</dailymotion-url>
+        <dailymotion-url>https://www.dailymotion.com/video/x9jdz4o</dailymotion-url>
     </channel>
     <channel>
         <channel-name>The California Lifestyle Channel</channel-name>
