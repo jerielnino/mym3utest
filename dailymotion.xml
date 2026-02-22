@@ -11,4 +11,10 @@
         <group-title>Sports</group-title>
         <dailymotion-url>https://www.dailymotion.com/video/x9inwla</dailymotion-url>
     </channel>
+    <channel>
+        <channel-name>Coutinho goals</channel-name>
+        <tvg-logo>https://s1.dmcdn.net/v/OsayY1Rr0U-K0sJHj/x240</tvg-logo>
+        <group-title>Sports</group-title>
+        <dailymotion-url>https://www.dailymotion.com/video/x6w8wma</dailymotion-url>
+    </channel>
 </channels>
