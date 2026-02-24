@@ -5,9 +5,19 @@ http://192.168.20.50:6095/stream?url=https://www.youtube.com/@alafasy/live
 http://192.168.20.50:6095/stream?url=https://www.youtube.com/@IstabraqTV/live
 #EXTINF:-1 tvg-name="AlQalam-Media" tvg-id="AlQalam-Media" tvg-logo="https://yt3.googleusercontent.com/qxV8y9ZewlRQI5BJnNte5J45S_mt-FAPgy8E3dxZhm3hU2QuKUFSwR2DsaHhQSLn1cCVNB8rMg=s160-c-k-c0x00ffffff-no-rj" group-title="Islamic",AlQalam-Media
 http://192.168.20.50:6095/stream?url=https://www.youtube.com/@AlQalam-Media-Official
+#EXTINF:-1 tvg-name="QuranDailyMedia" tvg-id="QuranDailyMedia" tvg-logo="https://yt3.googleusercontent.com/Sg9KZE0bcfJRVLt1-J4eAXfInPsW0Y4f5OiHGNiM6fNoo31JWdtjL9WRkQXnLowz0zCmRq-A=s160-c-k-c0x00ffffff-no-rj" group-title="Islamic",QuranDailyMedia
+http://192.168.20.50:6095/stream?url=https://www.youtube.com/@QuranDailyMedia
 #EXTINF:-1 tvg-name="talkSPORT" tvg-id="talkSPORT" tvg-logo="https://yt3.googleusercontent.com/i_nrwhCjuhW-XibmYmGBLptarZmwXf5qma5vXgVEVZKR7FkpPvjx4oWt5vUccCBI2WIn3RscRFI=s160-c-k-c0x00ffffff-no-rj" group-title="Sports",talkSPORT
 http://192.168.20.50:6095/stream?url=https://www.youtube.com/@talkSPORT
 #EXTINF:-1 tvg-name="GOLD Cricket" tvg-id="GOLD Cricket Updated" tvg-logo="https://yt3.googleusercontent.com/Vh9uFoOoGYoFDVYsUjrFzjUegCQq1PI1lwpHR2EcOVbnqQYMqdMGuw81F0HX5XZN-BgZgzWAJA=s160-c-k-c0x00ffffff-no-rj" group-title="Sports",GOLD Cricket Updated
 http://192.168.20.50:6095/stream?url=https://www.youtube.com/live/wjKnaEvwlKw
 #EXTINF:-1 tvg-name="Tom And Jerry" tvg-id="Tom And Jerry" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOOC91gER0o-LbroGnxnFtw7M-eJHQDIx-BH-vszIE0xPHqi72aY3AIxSq&s=10" group-title="Kids",Tom And Jerry
 http://192.168.20.50:6095/stream?url=https://www.youtube.com/@warnerbrosclassics
+#EXTINF:-1 tvg-name="ClassicMrBean" tvg-id="ClassicMrBean" tvg-logo="https://yt3.googleusercontent.com/YrEzLhYLxdrpKLbngY67ZTxR_E25r1n4KmJP6AMwtq_CnKwY38a4pSxNg0Ixp4iHADDKIU2FzQ=s160-c-k-c0x00ffffff-no-rj" group-title="Kids",ClassicMrBean
+http://192.168.20.50:6095/stream?url=https://www.youtube.com/@ClassicMrBean
+#EXTINF:-1 tvg-name="GentleBreeze" tvg-id="GentleBreeze" tvg-logo="https://yt3.googleusercontent.com/wLm83YhvKsdDq_B4VfVhSVVzZkTTs5_B36rsrUCAaePYJ0ppXY-aUBg7pfVoF9A9ZcuHVCxL=s160-c-k-c0x00ffffff-no-rj" group-title="Nature",GentleBreeze
+http://192.168.20.50:6095/stream?url=https://www.youtube.com/@GentleBreeze-ph5ll
+#EXTINF:-1 tvg-name="GentleBreeze 2" tvg-id="GentleBreeze 2" tvg-logo="https://yt3.googleusercontent.com/wLm83YhvKsdDq_B4VfVhSVVzZkTTs5_B36rsrUCAaePYJ0ppXY-aUBg7pfVoF9A9ZcuHVCxL=s160-c-k-c0x00ffffff-no-rj" group-title="Nature",GentleBreeze 2
+http://192.168.20.50:6095/stream?url=https://www.youtube.com/watch?v=9Rp7Ddxzajs
+#EXTINF:-1 tvg-name="MadeInHistory" tvg-id="MadeInHistory" tvg-logo="https://yt3.googleusercontent.com/Yvxi6tGlwVkferUSxaqgyJmQTQhgoQccMNdBN_jIQwjD0s3K5A5NH_LviYsCm2p8FwuoKMauyl8=s160-c-k-c0x00ffffff-no-rj" group-title="History",MadeInHistory
+http://192.168.20.50:6095/stream?url=https://www.youtube.com/@MadeInHistory
