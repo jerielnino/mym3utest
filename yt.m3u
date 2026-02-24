@@ -20,7 +20,7 @@ http://192.168.20.50:6095/stream?url=https://www.youtube.com/@GentleBreeze-ph5ll
 #EXTINF:-1 tvg-name="GentleBreeze 2" tvg-id="GentleBreeze 2" tvg-logo="https://yt3.googleusercontent.com/wLm83YhvKsdDq_B4VfVhSVVzZkTTs5_B36rsrUCAaePYJ0ppXY-aUBg7pfVoF9A9ZcuHVCxL=s160-c-k-c0x00ffffff-no-rj" group-title="Nature",GentleBreeze 2
 http://192.168.20.50:6095/stream?url=https://www.youtube.com/watch?v=9Rp7Ddxzajs
 #EXTINF:-1 tvg-name="MadeInHistory" tvg-id="MadeInHistory" tvg-logo="https://yt3.googleusercontent.com/Yvxi6tGlwVkferUSxaqgyJmQTQhgoQccMNdBN_jIQwjD0s3K5A5NH_LviYsCm2p8FwuoKMauyl8=s160-c-k-c0x00ffffff-no-rj" group-title="History",MadeInHistory
-http://192.168.20.50:6095/stream?url=https://www.youtube.com/@MadeInHistory
+http://192.168.20.50:6095/stream?url=https://www.youtube.com/live/4K8T_abbn8w
 #EXTINF:-1 tvg-name="Asianet News" tvg-id="Asianet News" tvg-logo="https://yt3.googleusercontent.com/8eItmjbOfJwot8wd0-19KgtvF2ztf4np2qIVfJ1kMPv1ADi6wx9giU62B1j6xO0Ug2Idrqbncg=s160-c-k-c0x00ffffff-no-rj" group-title="News",Asianet News
 http://192.168.20.50:6095/stream?url=https://www.youtube.com/@asianetnews
 #EXTINF:-1 tvg-name="Reporter" tvg-id="Reporter" tvg-logo="https://yt3.googleusercontent.com/bJDd0TLwG0dXlTmaX9RvX1Ch99KMWU8tqpMIXu6W46dNfIS7gK3pC243M--uLOHgPaNKTaQF=s160-c-k-c0x00ffffff-no-rj" group-title="News",Reporter
