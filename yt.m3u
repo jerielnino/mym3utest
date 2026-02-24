@@ -21,3 +21,17 @@ http://192.168.20.50:6095/stream?url=https://www.youtube.com/@GentleBreeze-ph5ll
 http://192.168.20.50:6095/stream?url=https://www.youtube.com/watch?v=9Rp7Ddxzajs
 #EXTINF:-1 tvg-name="MadeInHistory" tvg-id="MadeInHistory" tvg-logo="https://yt3.googleusercontent.com/Yvxi6tGlwVkferUSxaqgyJmQTQhgoQccMNdBN_jIQwjD0s3K5A5NH_LviYsCm2p8FwuoKMauyl8=s160-c-k-c0x00ffffff-no-rj" group-title="History",MadeInHistory
 http://192.168.20.50:6095/stream?url=https://www.youtube.com/@MadeInHistory
+#EXTINF:-1 tvg-name="Asianet News" tvg-id="Asianet News" tvg-logo="https://yt3.googleusercontent.com/8eItmjbOfJwot8wd0-19KgtvF2ztf4np2qIVfJ1kMPv1ADi6wx9giU62B1j6xO0Ug2Idrqbncg=s160-c-k-c0x00ffffff-no-rj" group-title="News",Asianet News
+http://192.168.20.50:6095/stream?url=https://www.youtube.com/@asianetnews
+#EXTINF:-1 tvg-name="Reporter" tvg-id="Reporter" tvg-logo="https://yt3.googleusercontent.com/bJDd0TLwG0dXlTmaX9RvX1Ch99KMWU8tqpMIXu6W46dNfIS7gK3pC243M--uLOHgPaNKTaQF=s160-c-k-c0x00ffffff-no-rj" group-title="News",Reporter
+http://192.168.20.50:6095/stream?url=https://www.youtube.com/@reporterlive
+#EXTINF:-1 tvg-name="24 News" tvg-id="24 News" tvg-logo="https://yt3.googleusercontent.com/X_t333KRKpneIeUWhmRwWjXL5HOKQgIefYfs-Fn3sdLlu_zvqJAbSI8kPSYrK3yrZWwjQERM=s160-c-k-c0x00ffffff-no-rj" group-title="News",24 News
+http://192.168.20.50:6095/stream?url=https://www.youtube.com/@24OnLive
+#EXTINF:-1 tvg-name="Mathrubhumi News" tvg-id="Mathrubhumi News" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n3GwS5AiD5wcCQcacdBVIqedZEtVm4H1EsLlxB0li41mA=s160-c-k-c0x00ffffff-no-rj" group-title="News",Mathrubhumi News
+http://192.168.20.50:6095/stream?url=https://www.youtube.com/@TVMathrubhumi
+#EXTINF:-1 tvg-name="Manorama News" tvg-id="Manorama News" tvg-logo="https://yt3.googleusercontent.com/ZYxJvUMw4-3IZvUc7JP9IsZjOUbHQv5zJ9Tg4qZqSQF5ly2l28J8xekqgHFL7TtrUe1Rkh1Wsg=s160-c-k-c0x00ffffff-no-rj" group-title="News",Manorama News
+http://192.168.20.50:6095/stream?url=https://www.youtube.com/@manoramanews
+#EXTINF:-1 tvg-name="News 18 Kerala" tvg-id="News 18 Kerala" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_noEGYn5NGuAElTdnJcp3vAZJYN5bM9ZDjFa7OfVxq2xw=s160-c-k-c0x00ffffff-no-rj" group-title="News",News 18 Kerala
+http://192.168.20.50:6095/stream?url=https://www.youtube.com/@News18Kerala
+#EXTINF:-1 tvg-name="Media One" tvg-id="Media One" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nFqgCQfk09vEWUTJ8YLJqTaahT-cqdX1fP8-rv7ZI5Kos=s160-c-k-c0x00ffffff-no-rj" group-title="News",Media One
+http://192.168.20.50:6095/stream?url=https://www.youtube.com/@MediaoneTVLive
