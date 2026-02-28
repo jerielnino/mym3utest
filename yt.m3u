@@ -14,7 +14,7 @@ http://192.168.20.50:6095/stream?url=https://www.youtube.com/live/wjKnaEvwlKw
 #EXTINF:-1 tvg-name="Tom And Jerry" tvg-id="Tom And Jerry" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOOC91gER0o-LbroGnxnFtw7M-eJHQDIx-BH-vszIE0xPHqi72aY3AIxSq&s=10" group-title="Kids",Tom And Jerry
 http://192.168.20.50:6095/stream?url=https://www.youtube.com/@warnerbrosclassics
 #EXTINF:-1 tvg-name="ClassicMrBean" tvg-id="ClassicMrBean" tvg-logo="https://yt3.googleusercontent.com/YrEzLhYLxdrpKLbngY67ZTxR_E25r1n4KmJP6AMwtq_CnKwY38a4pSxNg0Ixp4iHADDKIU2FzQ=s160-c-k-c0x00ffffff-no-rj" group-title="Kids",ClassicMrBean
-http://192.168.20.50:6095/stream?url=https://www.youtube.com/@ClassicMrBean
+http://192.168.20.50:6095/stream?url=https://www.youtube.com/live/e9Yn2vKnN8A
 #EXTINF:-1 tvg-name="GentleBreeze" tvg-id="GentleBreeze" tvg-logo="https://yt3.googleusercontent.com/wLm83YhvKsdDq_B4VfVhSVVzZkTTs5_B36rsrUCAaePYJ0ppXY-aUBg7pfVoF9A9ZcuHVCxL=s160-c-k-c0x00ffffff-no-rj" group-title="Nature",GentleBreeze
 http://192.168.20.50:6095/stream?url=https://www.youtube.com/@GentleBreeze-ph5ll
 #EXTINF:-1 tvg-name="GentleBreeze 2" tvg-id="GentleBreeze 2" tvg-logo="https://yt3.googleusercontent.com/wLm83YhvKsdDq_B4VfVhSVVzZkTTs5_B36rsrUCAaePYJ0ppXY-aUBg7pfVoF9A9ZcuHVCxL=s160-c-k-c0x00ffffff-no-rj" group-title="Nature",GentleBreeze 2
