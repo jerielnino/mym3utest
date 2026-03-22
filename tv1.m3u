@@ -12,13 +12,13 @@ https://dai.google.com/ssai/event/M9_zi51yTUasz3j9qSqLNA/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://dai.google.com/ssai/event/Ur4ZLKIASduLZ0RY6l2tyg/master.m3u8
 
-#EXTINF:-1 tvg-id="Euro1" tvg-name="Euro 1" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94world%20cup%20russia%20world%20cup_3928185.png", Liv vs Crystal Palace
+#EXTINF:-1 tvg-id="Euro1" tvg-name="Euro 1" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94world%20cup%20russia%20world%20cup_3928185.png", Fancode 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://dai.fancode.com/primary/137354_english_hls_27e725d4d874970_1ta-di_h264/index.m3u8
+https://dai.fancode.com/primary/140405_english_hls_e94027a4479357_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-id="Euro1" tvg-name="Euro 1" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94world%20cup%20russia%20world%20cup_3928185.png", Real Madrid Match
+#EXTINF:-1 tvg-id="Euro1" tvg-name="Euro 1" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94world%20cup%20russia%20world%20cup_3928185.png", Fancode 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://zubayerop.short.gy/RMA-V-JUV.m3u8
+https://dai-fancode.pages.dev/mumbai/140405_english_hls_e94027a4479357_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #EXTINF:-1 tvg-id="Euro1" tvg-name="Euro 1" tvg-logo="https://raw.githubusercontent.com/jerielnino/mym3utest/main/images/%E2%80%94Pngtree%E2%80%94world%20cup%20russia%20world%20cup_3928185.png", Liverpool Match
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
